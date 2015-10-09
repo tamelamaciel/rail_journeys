@@ -46,7 +46,7 @@ year = date.split('/')[2]
 
 #################### INPUT and OUTPUT FILES ####################################
 stationfile='Station_use_2011-12.csv'
-resultsfile='furthest_away_stations.txt'
+resultsfile='prices_from_'+start+'.txt'
 
 ######### Write header #########################
 fileout = open(resultsfile, 'w')
@@ -108,7 +108,7 @@ for station in station_names:
 	br.open('http://www.nationalrail.co.uk/')
 	i=station_names.index(station)
 	code=station_codes[i]
-	postcode=station_postcodes[i]
+	#postcode=station_postcodes[i]
 	# Select the first (index zero) form
 	br.select_form(nr=2)
 	#br.form.set_all_readonly(False)
@@ -138,6 +138,7 @@ for station in station_names:
 	#find item txtsoup that matches 'buyCheapest button'
 
 	matches = [s for s in txtsoup if "cheapestFare" in s] #list of matches
+	print matches
 	try:
 		cheapest=matches[0].split('&#163;')[1].strip('\r') #string of pound value. '&#163;' is the pound sign
 	except IndexError:
