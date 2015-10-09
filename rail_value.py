@@ -1,6 +1,8 @@
-#master file for rail journeys project
+"""Script to find the best value train tickets (miles per pence) in the UK"""
 
-#=========USER CONFIG===========================================================
+import sys
+
+#=========CONFIG===============================================================
 # -----------------------------------------------------------------------
 # Options:
 #   default journey: single
@@ -12,19 +14,36 @@ start = 'LEI'
 date = '09/11/15'
 # type (s for single or r for return):
 journey = 's'
-
-
 #===============================================================================
 
 day = date.split('/')[0]
 month = date.split('/')[1]
 year = date.split('/')[2]
 
-import national_rail
+def get_prices_from_national_rail(start,day,month,year,journey):
+    """Gets ticket prices from national rail website for all UK journeys starting at *start*"""
+    pass
 
-import distances_for_postcodes.py
+def calc_distances_to_stations(start):
+    """Calculates distance as the crow flies from starting point to all other station postcodes in statute miles."""
+    pass
 
-import fun_ratio_calc
+def calc_value_ratio(start):
+	"""Calculates the best value journeys from *start* using prices and distances to each UK station"""
+	pass
+
+def main():
+    """Main entry point for the script."""
+
+
+if __name__ == '__main__':
+    sys.exit(main())
+
+
+
+
+
+
 
 
 
