@@ -1,0 +1,12 @@
+*.txt
+*.png
+svg_maps/
+*.csv
+*.ods
+*.py~
+*.html
+*.js
+json
+maps/
+leaflet-0.7.1/
+kartograph.js/
