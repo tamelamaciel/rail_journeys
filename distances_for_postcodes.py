@@ -32,7 +32,7 @@ place,(start_lat,start_long)=g.geocode('oxford, uk') #<-------- edit for startin
 postcodes_data=np.genfromtxt('station_postcodes_definitive.txt',dtype=[('name','|S30'),('code','S5'),('postcode','S12')], comments='#',delimiter=',')
 
 
-#read in uk-postcodes.csb
+#read in uk-postcodes.csv
 
 lat_long_data=np.genfromtxt('uk-postcodes.csv',dtype=[('code','S5'),('x','float'),('y','float'),('lat','float'),('long','float')], comments='#',delimiter=',')
 
