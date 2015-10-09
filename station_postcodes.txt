@@ -1,4 +1,4 @@
-#Station_name station_code postcode
+#Station_name station_code postcode (pulled directly from national rail webpage)
 Abbey Wood,ABW,SE2 9RH
 Aber,ABE,CF83 1AQ
 Abercynon,ACY,CF45 4SE
@@ -10,7 +10,7 @@ Abererch,ABH,LL53 6PJ
 Abergavenny,AGV,NP7 5HS
 Abergele & Pensarn,AGL,LL22 7PR
 Aberystwyth,AYW,SY23 1LH
-Accrington,ACR,BB5 1LJ
+Accrington,ACR,BB5 1LN
 Achanalt,AAT,IV23 2QD
 Achnasheen,ACN,IV22 2EJ
 Achnashellach,ACH,IV54 8YH
@@ -25,7 +25,7 @@ Addiewell,ADW,EH55 8NQ
 Addlestone,ASN,KT15 2PB
 Adisham,ADM,CT3 3JE
 Adlington (Cheshire),ADC,SK10 4NA
-Adlington (Lancashire),ADL,PR6 9RS
+Adlington (Lancashire),ADL,PR8 9RS
 Adwick,AWK,DN6 7AJ
 Aigburth,AIG,L17 6AG
 Ainsdale,ANS,PR8 3HJ
@@ -35,7 +35,7 @@ Airdrie,ADR,ML6 9EX
 Albany Park,AYP,DA5 3HP
 Albrighton,ALB,WV7 3DS
 Alderley Edge,ALD,SK9 7QA
-Aldermaston,AMT,RG7 4LB
+Aldermaston,AMT,RG7 6PU
 Aldershot,AHT,GU11 1HN
 Aldrington,AGT,BN3 5AE
 Alexandra Palace,AAP,N22 7ST
@@ -57,3 +57,2478 @@ Alvechurch,ALV,B48 7SE
 Ambergate,AMB,DE56 2EN
 Amberley,AMY,BN18 9LR
 Amersham,AMR,HP6 5AZ
+Ammanford,AMF,SA18 2DD
+Ancaster,ANC,NG32 3RA
+Anderston,AND,G3 8RR
+Andover,ADV,SP10 3HN
+Anerley,ANZ,SE20 8PY
+Angel Road,AGR,N18 3AY
+Angmering,ANG,BN16 3RE
+Annan,ANN,DG12 6AS
+Anniesland,ANL,G12 0AY
+Ansdell & Fairhaven,AFV,FY8 1AG
+Appleby,APP,CA16 6TT
+Appledore,APD,TN26 2DF
+Appleford,APF,OX14 4PJ
+Appley Bridge,APB,WN6 9AE
+Apsley,APS,HP3 9SX
+Arbroath,ARB,DD11 1RQ
+Ardgay,ARD,IV24 3AQ
+Ardlui,AUI,G83 8SW
+Ardrossan Harbour,ADS,KA22 8BH
+Ardrossan South Beach,ASB,KA22 8AU
+Ardrossan Town,ADN,KA22 8AU
+Ardwick,ADK,M12 6LY
+Argyle Street,AGS,G2 8DL
+Arisaig,ARG,PH39 4NJ
+Arlesey,ARL,SG15 6XA
+Armadale,ARM,EH48 3LP
+Armathwaite,AWT,CA4 9PL
+Arnside,ARN,LA5 0HQ
+Arram,ARR,HU17 7NR
+Arrochar & Tarbet,ART,G83 7DB
+Arundel,ARU,BN18 9PH
+Ascot,ACT,SL5 9EG
+Ascott-Under-Wychwood,AUW,OX3 5LP
+Ash,ASH,GU12 6BE
+Ash Vale,AHV,GU12 5LP
+Ashburys,ABY,M12 5BY
+Ashchurch,ASC,GL20 8TU
+Ashfield,ASF,G22 6LR
+Ashford (Middlesex),AFS,TW15 2QN
+Ashford International,AFK,TN23 1EZ
+Ashley,ASY,WA14 3QE
+Ashtead,AHD,KT21 2DR
+Ashton-Under-Lyne,AHN,OL6 6JP
+Ashurst,AHS,TN3 9TL
+Ashurst New Forest,ANF,SO40 7AA
+Ashwell & Morden,AWM,SG7 5RT
+Askam,ASK,LA16 7EN
+Aslockton,ALK,NG13 9AA
+Aspatria,ASP,CA7 2AW
+Aspley Guise,APG,MK17 8XF
+Aston,AST,B6 7PR
+Atherstone,ATH,CV9 1BH
+Atherton,ATN,M46 9RH
+Attadale,ATT,IV54 8YX
+Attenborough,ATB,NG9 6AL
+Attleborough,ATL,NR17 2AS
+Auchinleck,AUK,KA18 2BH
+Audley End,AUD,CB11 4LB
+Aughton Park,AUG,L39 5BT
+Aviemore,AVM,PH22 1PD
+Avoncliff,AVF,BA15 2HD
+Avonmouth,AVN,BS11 9JB
+Axminster,AXM,EX13 5PF
+Aylesbury,AYS,HP20 1RU
+Aylesbury Vale Parkway,AVP,HP18 0PS
+Aylesford,AYL,ME20 7LL
+Aylesham,AYH,CT3 3AS
+Ayr,AYR,KA7 1TH
+Bache,BAC,CH2 1BS
+Baglan,BAJ,SA12 8ES
+Bagshot,BAG,GU19 5AS
+Baildon,BLD,BD17 6HS
+Baillieston,BIO,G69 7RN
+Balcombe,BAB,RH17 6JQ
+Baldock,BDK,SG7 5BU
+Balham,BAL,SW12 9SG
+Balloch,BHC,G83 8SS
+Balmossie,BSI,DD5 4QH
+Bamber Bridge,BMB,PR5 6EA
+Bamford,BAM,S32 1EG
+Banavie,BNV,PH33 7JF
+Banbury,BAN,OX16 5AB
+Bangor (Gwynedd),BNG,LL57 1LZ
+Bank Hall,BAH,L20 8BX
+Banstead,BAD,SM7 1PZ
+Barassie,BSS,KA10 6SA
+Bardon Mill,BLL,NE47 7HY
+Bare Lane,BAR,LA4 6LL
+Bargeddie,BGI,G69 7TS
+Bargoed,BGD,CF81 9AL
+Barking,BKG,IG11 8TU
+Barming,BMG,ME16 9NS
+Barmouth,BRM,LL42 1LS
+Barnehurst,BNH,DA7 6HQ
+Barnes,BNS,SW13 0HT
+Barnes Bridge,BNI,SW13 0NP
+Barnetby,BTB,DN38 6DG
+Barnham,BAA,PO22 0ES
+Barnhill,BNL,G21 4NB
+Barnsley,BNY,S71 1BP
+Barnstaple,BNP,EX31 2AU
+Barnt Green,BTG,B45 8PA
+Barrhead,BRR,G78 1AA
+Barrhill,BRL,KA26 0QF
+Barrow Haven,BAV,DN19 7ET
+Barrow-In-Furness,BIF,LA14 5QZ
+Barrow-Upon-Soar,BWS,LE12 8US
+Barry,BRY,CF62 8AF
+Barry Docks,BYD,CF63 4LE
+Barry Island,BYI,CF62 5TH
+Barry Links,BYL,DD11 1PR
+Barton-On-Humber,BAU,DN18 5SJ
+Basildon,BSO,SS16 5XY
+Basingstoke,BSK,RG21 5NE
+Bat & Ball,BBL,TN14 5AP
+Bath Spa,BTH,BA1 1SU
+Bathgate,BHG,EH48 1BA
+Batley,BTL,WF17 5TA
+Battersby,BTT,TS9 6LT
+Battersea Park,BAK,SW8 4LJ
+Battle,BAT,TN33 0DE
+Battlesbridge,BLB,SS11 7RG
+Bayford,BAY,SG13 8PH
+Beaconsfield,BCF,HP9 2PJ
+Bearley,BER,CV37 0EU
+Bearsden,BRN,G61 4AN
+Bearsted,BSD,ME14 4PH
+Beasdale,BSL,PH39 4NR
+Beaulieu Road,BEU,SO42 7YQ
+Beauly,BEL,IV4 7EF
+Bebington,BEB,CH63 7LA
+Beccles,BCC,NR34 9QJ
+Beckenham Hill,BEC,SE6 3RE
+Beckenham Junction,BKJ,BR3 1HY
+Bedford Midland,BDM,MK40 1DR
+Bedford St.Johns,BSJ,MK42 9AN
+Bedhampton,BDH,PO9 1LL
+Bedminster,BMT,BS3 4LU
+Bedworth,BEH,CV12 8JG
+Bedwyn,BDW,SN8 5RD
+Beeston,BEE,NG9 1JU
+Bekesbourne,BKS,CT4 5EP
+Belle Vue,BLV,M18 1AA
+Bellgrove,BLG,G31 1SG
+Bellingham,BGM,SE6 3BT
+Bellshill,BLH,ML4 1RJ
+Belmont,BLM,SM2 6BH
+Belper,BLP,DE56 1DA
+Beltring,BEG,TN12 6QH
+Belvedere,BVD,DA17 6JJ
+Bempton,BEM,YO15 1HN
+Ben Rhydding,BEY,LS29 8ET
+Benfleet,BEF,SS7 1NF
+Bentham,BEN,LH2 7LJ
+Bentley,BTY,GU10 5JZ
+Bentley (S. Yorks),BYK,DN5 0BE
+Bere Alston,BAS,PL20 7EP
+Bere Ferrers,BFE,PL20 7JS
+Berkhamsted,BKM,HP4 2AR
+Berkswell,BKW,CV7 7EF
+Berney Arms,BYA,NR30 1SB
+Berry Brow,BBW,HD4 7LP
+Berrylands,BRS,KT5 8LS
+Berwick (Sussex),BRK,BN26 6TB
+Berwick-Upon-Tweed,BWK,TD15 1NF
+Bescar Lane,BES,L40 9QP
+Bescot Stadium,BSC,WS1 4NH
+Betchworth,BTO,RH3 2AD
+Bethnal Green,BET,E2 6JL
+Betws-y-Coed,BYC,LL24 0AE
+Beverley,BEV,HU17 0AS
+Bexhill,BEX,TN40 1EB
+Bexley,BXY,DA5 1AQ
+Bexleyheath,BXH,DA7 4AA
+Bicester North,BCS,OX26 6EF
+Bicester Town,BIT,OX26 6HU
+Bickley,BKL,BR1 2EB
+Bidston,BID,CH43 7RF
+Biggleswade,BIW,SG18 8AL
+Bilbrook,BBK,WV8 1LE
+Billericay,BIC,CM12 0BP
+Billingham,BIL,TS23 3TG
+Billingshurst,BIG,RH14 9SE
+Bingham,BIN,??
+Bingley,BIY,BD16 2NA
+Birchgrove,BCG,CF14 4SY
+Birchington-On-Sea,BCH,CT7 9RD
+Birchwood,BWD,WA3 6NZ
+Birkbeck,BIK,BR3 4TA
+Birkdale,BDL,PR8 4AF
+Birkenhead Central,BKC,CH41 9DB
+Birkenhead Hamilton Square,BKQ,CH41 1AL
+Birkenhead North,BKN,CH41 7AZ
+Birkenhead Park,BKP,CH41 8BT
+Birmingham Bordesley,BBS,B9 4HF
+Birmingham International,BHI,B40 1PA
+Birmingham Moor Street,BMO,B4 7UL
+Birmingham New Street,BHM,B2 4QA
+Birmingham Snow Hill,BSW,B3 2BJ
+Bishop Auckland,BIA,DL14 7EJ
+Bishopbriggs,BBG,G64 1PE
+Bishops Stortford,BIS,CM23 3BL
+Bishopstone,BIP,BN25 2RB
+Bishopton,BPT,PA7 5AD
+Bitterne,BTE,SO18 1GG
+Blackburn,BBN,BB1 1EX
+Blackfriars,BFR,EC4V 4DY
+Blackheath,BKH,SE3 9LE
+Blackhorse Road,BHO,E17 6NH
+Blackpool North,BPN,FY1 2AB
+Blackpool Pleasure Beach,BPB,FY4 1NY
+Blackpool South,BPS,FY4 2FA
+Blackridge,BKR,EH48 3BW
+Blackrod,BLK,BL6 5JH
+Blackwater,BAW,GU17 9AB
+Blaenau Ffestiniog,BFF,LL41 3HE
+Blair Atholl,BLA,PH18 5SL
+Blairhill,BAI,ML5 1NP
+Blake Street,BKT,B74 4EB
+Blakedown,BKD,DY10 3LF
+Blantyre,BLT,G72 9BB
+Blaydon,BLO,NE21 4JB
+Bleasby,BSB,NG14 7GD
+Bletchley,BLY,MK3 6DZ
+Bloxwich,BLX,WS3 2NY
+Bloxwich North,BWN,WS3 2NR
+Blundellsands & Crosby,BLN,L23 8SE
+Blythe Bridge,BYB,ST11 9JF
+Bodmin Parkway,BOD,PL30 4BB
+Bodorgan,BOR,LL62 5BL
+Bognor Regis,BOG,PO21 1QF
+Bogston,BGS,PA15 2TF
+Bolton,BON,BL2 1BE
+Bolton-On-Dearne,BTD,S63 8NY
+Bookham,BKA,KT23 3JG
+Bootle (Cumbria),BOC,LA19 5TA
+Bootle New Strand,BNW,L20 5BW
+Bootle Oriel Road,BOT,L20 7AD
+Borough Green & Wrotham,BRG,TN15 8BG
+Borth,BRH,SY24 5HT
+Bosham,BOH,PO18 8NG
+Boston,BSN,PE21 3RN
+Botley,BOE,SO30 2DY
+Bottesford,BTF,NG13 0GT
+Bourne End,BNE,SL8 5QH
+Bournemouth,BMH,BH8 8HX
+Bournville,BRV,B30 1LG
+Bow Brickhill,BWB,MK17 9JN
+Bowes Park,BOP,N22 4NT
+Bowling,BWG,G60 5AH
+Boxhill & Westhumble,BXW,RH5 6BT
+Bracknell,BCE,RG12 1HX
+Bradford Forster Square,BDQ,BD1 4HY
+Bradford Interchange,BDI,BD1 1TU
+Bradford-On-Avon,BOA,BA15 1DF
+Brading,BDN,PO36 0EB
+Braintree,BTR,CM7 6QL
+Braintree Freeport,BTP,CM77 8YH
+Bramhall,BML,SK7 2DU
+Bramley (Hampshire),BMY,RG26 5AG
+Bramley (West Yorkshire),BLE,LS13 4DU
+Brampton (Cumbria),BMP,CA8 1HW
+Brampton (Suffolk),BRP,NR34 8EF
+Branchton,BCN,PA16 9HA
+Brandon,BND,IP27 0BA
+Branksome,BSM,BH12 1DF
+Braystones,BYS,CA21 2YW
+Bredbury,BDY,SK6 2AA
+Breich,BRC,EH55 8JH
+Brentford,BFD,TW8 8DT
+Brentwood,BRE,CM14 4EW
+Bricket Wood,BWO,AL2 3LN
+Bridge Of Allan,BEA,FK9 4PH
+Bridge Of Orchy,BRO,PA36 4AD
+Bridgend,BGN,CF31 1BN
+Bridgeton,BDG,G40 1BN
+Bridgwater,BWT,TA6 5HB
+Bridlington,BDT,YO15 3EP
+Brierfield,BRF,BB9 5PU
+Brigg,BGG,DN20 8HX
+Brighouse,BGH,HD6 1LE
+Brighton,BTN,BN1 3XP
+Brimsdown,BMD,EN3 7SH
+Brinnington,BNT,SK5 8JE
+Bristol Parkway,BPW,BS34 8PU
+Bristol Temple Meads,BRI,BS1 6QF
+Brithdir,BHD,NP24 6XY
+British Steel Redcar,RBS,TS10 5QW
+Briton Ferry,BNF,SA11 2NE
+Brixton,BRX,SW9 8JB
+Broad Green,BGE,L14 3NG
+Broadbottom,BDB,SK14 6AX
+Broadstairs,BSR,CT10 1HZ
+Brockenhurst,BCU,SO42 7TW
+Brockholes,BHS,HD9 7EB
+Brockley,BCY,SE4 2RW
+Bromborough,BOM,CH63 0JG
+Bromborough Rake,BMR,CH62 7AL
+Bromley Cross,BMC,BL7 9PZ
+Bromley North,BMN,BR1 3NN
+Bromley South,BMS,BR1 1LX
+Bromsgrove,BMV,B60 2LX
+Brondesbury,BSY,NW6 7QB
+Brondesbury Park,BSP,NW6 6RP
+Brookman's Park,BPK,AL9 7SS
+Brookwood,BKO,GU24 0ER
+Broome,BME,SY7 0NT
+Broomfleet,BMF,HU15 1RQ
+Brora,BRA,KW9 6PY
+Brough,BUH,HU15 1DZ
+Broughty Ferry,BYF,DD5 2DX
+Broxbourne,BXB,EN10 7AW
+Bruce Grove,BCV,N17 6QA
+Brundall,BDA,NR13 5LA
+Brundall Gardens,BGA,NR13 5RG
+Brunstane,BSU,EH15 2NG
+Brunswick,BRW,L8 6XP
+Bruton,BRU,BA10 0EH
+Bryn,BYN,WN4 0AR
+Buckenham,BUC,NR13 4HW
+Buckley,BCK,CH7 3AY
+Bucknell,BUK,SY7 0AD
+Buckshaw Parkway,BSV,PR7 7EY
+Bugle,BGL,PL26 8QP
+Builth Road,BHR,LD2 3PY
+Bulwell,BLW,NG6 9AA
+Bures,BUE,CO8 5HS
+Burgess Hill,BUG,RH15 9DG
+Burley Park,BUY,LS6 1NA
+Burley-In-Wharfedale,BUW,LS29 4BE
+Burnage,BNA,M20 6FJ
+Burneside,BUD,LA9 6RD
+Burnham,BNM,SL1 6JT
+Burnham-On-Crouch,BUU,CM0 8BQ
+Burnley Barracks,BUB,BB12 0HG
+Burnley Central,BNC,BB11 1DA
+Burnley Manchester Road,BYM,BB11 1JZ
+Burnside,BUI,G73 3SA
+Burntisland,BTS,KY3 9DR
+Burscough Bridge,BCB,L40 0RZ
+Burscough Junction,BCJ,L40 5SP
+Bursledon,BUO,SO31 8AA
+Burton Joyce,BUJ,NG14 5AA
+Burton-On-Trent,BUT,DE14 2DA
+Bury St.Edmunds,BSE,IP32 6AD
+Busby,BUS,G76 8JB
+Bush Hill Park,BHK,EN1 1BA
+Bushey,BSH,WD19 4EA
+Butlers Lane,BUL,B74 4RT
+Penychain (Butlins),BPC,??
+Buxted,BXD,TN22 4LA
+Buxton,BUX,SK17 6AQ
+Byfleet & New Haw,BFN,KT15 3LQ
+Bynea,BYE,SA14 9TL
+Cadoxton,CAD,CF63 2JP
+Caergwrle,CGW,LL12 9DU
+Caerphilly,CPH,CF83 1JR
+Caersws,CWS,SY17 5HH
+Caldercruix,CAC,MI6 7RJ
+Caldicot,CDT,NP6 4BU
+Caledonian Road & Barnsbury,CIR,N1 1DF
+Calstock,CSK,PL18 9QY
+Cam & Dursley,CDU,GL11 5DJ
+Camberley,CAM,GU15 3RR
+Camborne,CBN,TR14 8SR
+Cambridge,CBG,CB1 2JW
+Cambridge Heath,CBH,E2 9EG
+Cambuslang,CBL,G72 7EL
+Camden Road,CMD,NW1 9LS
+Camelon,CMO,FK1 4JW
+Canada Water,CAW,??
+Canley,CNL,CV5 6BH
+Cannock,CAO,WS11 8NQ
+Cannon Street,CST,EC4N 6AP
+Canonbury,CNN,N1 2PG
+Canterbury East,CBE,CT1 2RB
+Canterbury West,CBW,CT2 8AN
+Cantley,CNY,NR13 3SQ
+Capenhurst,CPU,CH1 6HE
+Carbis Bay,CBB,TR26 2NN
+Cardenden,CDD,KY5 0BP
+Cardiff Bay,CDB,CF10 5LE
+Cardiff Central,CDF,CF10 1EP
+Cardiff Queen Street,CDQ,CF10 4EY
+Cardonald,CDO,G52 2DE
+Cardross,CDR,G82 5NL
+Carfin,CRF,ML1 5AU
+Cark & Cartmel,CAK,LA11 7NL
+Carlisle,CAR,CA1 1QZ
+Carlton,CTO,NG4 2FD
+Carluke,CLU,ML8 5AA
+Carmarthen,CMN,SA31 2BE
+Carmyle,CML,G32 8YS
+Carnforth,CNF,LA5 9ET
+Carnoustie,CAN,DD7 6AY
+Carntyne,CAY,G32 6AW
+Carpenders Park,CPK,WD19 7DT
+Carrbridge,CAG,PH23 3AJ
+Carshalton,CSH,SM5 2HW
+Carshalton Beeches,CSB,SM5 3RF
+Carstairs,CRS,ML11 8PR
+Cartsdyke,CDY,PA15 2TG
+Castle Bar Park,CBP,W13 0DH
+Castle Cary,CLC,BA7 7PE
+Castleford,CFD,WF10 5DN
+Castleton,CAS,OL11 3EB
+Castleton Moor,CSM,YO21 2EU
+Caterham,CAT,CR3 6LB
+Catford,CTF,SE6 4XT
+Catford Bridge,CFB,SE6 4RH
+Cathays,CYS,CF10 3LU
+Cathcart,CCT,G44 4ED
+Cattal,CTL,YO5 8EB
+Causeland,CAU,PL14 4ST
+Cefn-Y-Bedd,CYB,LL12 9UU
+Chadwell Heath,CTH,RM6 4BU
+Chafford Hundred,CFH,RM16 6QQ
+Chalfont & Latimer,CFO,HP7 9PR
+Chalkwell,CHW,SS0 8PX
+Chandlers Ford,CFR,SO53 4DE
+Chapel-En-Le-Frith,CEF,SK23 0XT
+Chapelton,CPN,EX37 9DZ
+Chapeltown,CLN,S35 2UU
+Chappel & Wakes Colne,CWC,CO6 2DS
+Charing,CHG,TN27 0JA
+Charing Cross,CHX,WC2N 5HF
+Charing Cross (Glasgow),CHC,G2 3HW
+Charlbury,CBY,OX7 3HH
+Charlton,CTN,SE7 7QG
+Chartham,CRT,CT4 7HT
+Chassen Road,CSR,M41 9DY
+Chatelherault,CTE,ML3 7UD
+Chatham,CTM,ME4 6PN
+Chathill,CHT,NE67 5DE
+Cheadle Hulme,CHU,SK8 5AF
+Cheam,CHE,SM2 7AJ
+Cheddington,CED,LU7 0SQ
+Chelford,CEL,SK11 9AX
+Chelmsford,CHM,CM1 1HT
+Chelsfield,CLD,BR6 6EU
+Cheltenham Spa,CNM,GL51 8NP
+Chepstow,CPW,NP16 5PD
+Cherry Tree,CYT,BB2 2TZ
+Chertsey,CHY,KT16 9BG
+Cheshunt,CHN,EN8 9AQ
+Chessington North,CSN,KT9 2RT
+Chessington South,CSS,KT9 2JR
+Chester,CTR,CH1 3NS
+Chester Road,CRD,B73 5JS
+Chester-Le-Street,CLS,DH3 3EE
+Chesterfield,CHD,S41 7UB
+Chestfield & Swalecliffe,CSW,CT5 3JB
+Chetnole,CNO,DT9 6EP
+Chichester,CCH,PO19 8DL
+Chilham,CIL,CT4 8EG
+Chilworth,CHL,GU4 6TT
+Chingford,CHI,E4 6AL
+Chinley,CLY,SK12 6AA
+Chippenham,CPM,SN15 3QE
+Chipstead,CHP,CR3 3TD
+Chirk,CRK,LL14 5LU
+Chislehurst,CIT,BR7 5NN
+Chiswick,CHK,W4 3HB
+Cholsey,CHO,OX10 9QD
+Chorley,CRL,PR7 1BS
+Chorleywood,CLW,WD3 5ND
+Christ's Hospital,CHH,RH13 0ND
+Christchurch,CHR,BH23 1PL
+Church & Oswaldtwistle,CTW,BB5 0DP
+Church Fenton,CHF,LS24 9RA
+Church Stretton,CTT,SY6 6PG
+Cilmeri,CIM,LD2 3NU
+City Thameslink,CTK,EC4M 7JH
+Clacton,CLT,CO15 6PU
+Clandon,CLA,GU4 7TE
+Clapham (North Yorkshire),CPY,LA2 8DX
+Clapham High Street,CLP,SW4 6EU
+Clapham Junction,CLJ,SW11 1SP
+Clapton,CPT,E5 9JP
+Clarbeston Road,CLR,SA63 4UH
+Clarkston,CKS,G44 3BP
+Claverdon,CLV,CV35 8PE
+Claygate,CLG,KT10 0PB
+Cleethorpes,CLE,DN35 8AX
+Cleland,CEA,ML1 5RR
+Clifton,CLI,M27 8LL
+Clifton Down,CFN,BS8 2PN
+Clitheroe,CLH,BB7 2ED
+Clock House,CLK,BR3 4HJ
+Clunderwen,CUW,SA66 7NG
+Clydebank,CYK,G81 1RT
+Coatbridge Central,CBC,ML5 1RL
+Coatbridge Sunnyside,CBS,ML5 2DF
+Coatdyke,COA,ML5 3PZ
+Cobham & Stoke D'abernon,CSD,KT11 3BW
+Codsall,CSL,WV8 1BY
+Cogan,CGN,CF64 2NS
+Colchester,COL,CO1 1XD
+Colchester Town,CET,CO2 7EF
+Coleshill Parkway,CEH,B46 1JZ
+Collingham,CLM,NG23 7RB
+Collington,CLL,TN39 3EW
+Colne,CNE,BB8 9NX
+Colwall,CWL,WR13 6RN
+Colwyn Bay,CWB,LL29 8DF
+Combe,CME,OX8 7YG
+Commondale,COM,YO21 2HN
+Congleton,CNG,CW12 3DE
+Conisbrough,CNS,DN12 3DX
+Connel Ferry,CON,??
+Cononley,CEY,BD20 8HY
+Conway Park,CNP,CH41 4PP
+Conwy,CNW,LL32 8LD
+Cooden Beach,COB,TN39 4TT
+Cookham,COO,SL6 9BP
+Cooksbridge,CBR,BN7 3QG
+Coombe,COE,PL14 7LL
+Copplestone,COP,EX17 5NE
+Corbridge,CRB,NE45 5AY
+Corby,COR,NN17 1UJ
+Corkerhill Glasgow,CKH,G52 1QR
+Corkickle,CKL,CA28 8AP
+Corpach,CPA,PH33 7LS
+Corrour,CRR,PH30 4AA
+Coryton,COY,CF14 7BW
+Coseley,CSY,WV14 8XP
+Cosford,COS,WV7 3EY
+Cosham,CSA,PO6 3BD
+Cottingham,CGM,HU16 4LL
+Cottingley,COT,LS11 0JT
+Coulsdon South,CDS,CR5 3EA
+Coulsdon Town,CDN,CR5 2NS
+Coventry,COV,CV1 2GT
+Cowden,CWN,TN8 7DS
+Cowdenbeath,COW,KY4 9SQ
+Cradley Heath,CRA,B64 5AL
+Craigendoran,CGD,G84 7BQ
+Cramlington,CRM,NE23 9EX
+Craven Arms,CRV,SY7 9PY
+Crawley,CRW,RH10 1JA
+Crayford,CRY,DA1 3PY
+Crediton,CDI,EX17 3BY
+Cressing,CES,CM7 8MS
+Cressington,CSG,L19 0PE
+Creswell (Derbys),CWD,S80 4AZ
+Crewe,CRE,CW2 6HR
+Crewkerne,CKN,TA18 8AL
+Crews Hill,CWH,EN2 9EA
+Crianlarich,CNR,FK20 8QN
+Criccieth,CCC,LL52 0RW
+Cricklewood,CRI,NW2 1HL
+Croftfoot,CFF,G42 1AA
+Crofton Park,CFT,SE4 2PH
+Cromer,CMR,NR27 9EB
+Cromford,CMF,DE4 5JJ
+Crookston Glasgow,CKT,G52 3TX
+Cross Gates,CRG,LS15 8BX
+Crossflatts,CFL,BD16 2RZ
+Crosshill,COI,G42 8ES
+Crosskeys,CKY,NP11 7BU
+Crossmyloof,CMY,G41 3TW
+Croston,CSO,PR26 9SE
+Crouch Hill,CRH,N4 4AU
+Crowborough,COH,TN6 2JR
+Crowhurst,CWU,TN33 9DD
+Crowle,CWE,DN17 4JS
+Crowthorne,CRN,RG45 0QW
+Croy,CRO,G65 9HT
+Crystal Palace,CYP,SE19 2AZ
+Cuddington,CUD,CW8 2UH
+Cuffley,CUF,EN6 4HY
+Culham,CUM,OX14 3BT
+Culrain,CUA,IV27 4ET
+Cumbernauld,CUB,G67 2UH
+Cupar,CUP,KY15 5HX
+Curriehill,CUH,EH14 4AA
+Cuxton,CUX,ME2 1AB
+Cwmbach,CMH,CF44 0AG
+Cwmbran,CWM,NP44 1QX
+Cynghordy,CYN,SA20 0LY
+Dagenham Dock,DDK,RM9 6PR
+Daisy Hill,DSY,BL5 2JQ
+Dalgety Bay,DAG,KY11 9HZ
+Dalmally,DAL,PA33 1AY
+Dalmarnock,DAK,G40 4HG
+Dalmeny,DAM,EH30 9JU
+Dalmuir,DMR,G81 3QT
+Dalreoch,DLR,G82 4AD
+Dalry,DLY,KA24 4DE
+Dalston,DLS,CA5 7LT
+Dalston (Kingsland),DLK,E8 2JS
+Dalston Junction,DLJ,E8 3DE
+Dalton,DLT,LA15 8QA
+Dalwhinnie,DLW,PH19 1AD
+Danby,DNY,YO21 2JL
+Danescourt,DCT,CF5 2RX
+Danzey,DZY,B94 5BE
+Darlington,DAR,DL1 4AA
+Darnall,DAN,S9 4JU
+Darsham,DSM,IP17 3PN
+Dartford,DFD,DA1 1BP
+Darton,DRT,S75 5HX
+Darwen,DWN,BB3 0DE
+Datchet,DAT,SL3 9ED
+Davenport,DVN,SK3 8SA
+Dawlish,DWL,EX7 9PJ
+Dawlish Warren,DWW,EX7 0NF
+Deal,DEA,CT14 6HD
+Dean,DEN,SP5 1JF
+Deansgate,DGT,M31 1AA
+Deepdene,DPD,RH4 7TY
+Deganwy,DGY,LL31 9EJ
+Deighton,DHN,HD2 1LX
+Delamere,DLM,CW8 2JQ
+Denby Dale,DBD,HD8 8RX
+Denham,DNM,UB9 5ES
+Denham Golf Club,DGC,UB9 5EJ
+Denmark Hill,DMK,SE5 8BB
+Dent,DNT,LA10 5RF
+Denton,DTN,M34 3NS
+Deptford,DEP,SE8 3NU
+Derby,DBY,DE1 2RU
+Derby Road,DBR,IP3 8DN
+Devonport,DPT,PL1 4QN
+Dewsbury,DEW,WF13 1HF
+Didcot Parkway,DID,OX11 7NR
+Digby and Sowton,DIG,EX2 7AW
+Dilton Marsh,DMH,BA13 4DF
+Dinas (Mid Glamorgan),DMG,CF40 2PJ
+Dinas Powys,DNS,CF64 4DH
+Dingle Road,DGL,CF64 1JL
+Dingwall,DIN,IV15 9PZ
+Dinsdale,DND,DL2 1AA
+Dinting,DTG,SK13 9EB
+Disley,DSL,SK12 2AE
+Diss,DIS,IP22 4HN
+Dockyard,DOC,PL2 1RX
+Dodworth,DOD,S75 3JX
+Dolau,DOL,LD1 5TG
+Doleham,DLH,TN35 4LY
+Dolgarrog,DLG,LL26 0YR
+Dolwyddelan,DWD,LL25 0TJ
+Doncaster,DON,DN1 1PE
+Dorchester South,DCH,DT1 1QX
+Dorchester West,DCW,DT1 2LB
+Dore,DOR,S17 3LB
+Dorking,DKG,RH4 1TF
+Dorking West,DKT,RH4 5EE
+Dormans,DMS,RH7 6NL
+Dorridge,DDG,B93 8JA
+Dove Holes,DVH,SK17 8DJ
+Dover Priory,DVP,CT17 9SB
+Dovercourt,DVC,CO12 3AG
+Dovey Junction,DVY,SY20 8PZ
+Downham Market,DOW,PE38 9EN
+Drayton Green,DRG,W13 4SW
+Drayton Park,DYP,N5 1NT
+Drem,DRM,EH39 5LW
+Driffield,DRF,YO25 7PX
+Drigg,DRI,CA19 1XW
+Droitwich Spa,DTW,WR9 9BD
+Dronfield,DRO,S18 8UH
+Drumchapel,DMC,G13 4PT
+Drumfrochar,DFR,PA15 4BY
+Drumgelloch,DRU,ML6 7BL
+Drumry,DMY,G31 2LY
+Duddeston,DUD,B7 4ST
+Dudley Port,DDP,DY4 8UB
+Duffield,DFI,DE56 4EP
+Duirinish,DRN,IV40 8BD
+Duke Street,DST,G31 1LL
+Dullingham,DUL,CB8 8UP
+Dumbarton Central,DBC,G82 1PZ
+Dumbarton East,DBE,G82 2EP
+Dumbreck,DUM,G41 4HE
+Dumfries,DMF,DG1 1NF
+Dumpton Park,DMP,CT11 7EW
+Dunbar,DUN,EH42 1JX
+Dunblane,DBL,FK15 9ET
+Dunbridge,DBG,SO51 0LH
+Duncraig,DCG,IV52 8TZ
+Dundee,DEE,DD1 4BY
+Dunfermline,DFL,KY12 0GB
+Dunfermline Queen Margaret,DFE,KY12 7HT
+Dunkeld & Birnam,DKD,PH8 0DP
+Dunlop,DNL,KA3 4BZ
+Dunrobin Castle,DNO,KW10 6SF
+Dunston,DOT,NE11 9SS
+Dunton Green,DNG,TN13 2XD
+Durham,DHM,DH1 4RB
+Durrington-On-Sea,DUR,BN12 6BT
+Dyce,DYC,AB21 7EQ
+Dyffryn Ardudwy,DYF,LL42 2EU
+Eaglescliffe,EAG,TS16 0BT
+Ealing Broadway,EAL,W5 2NU
+Earlestown,ERL,WA12 9AU
+Earley,EAR,RG6 7DY
+Earlsfield,EAD,SW18 4SL
+Earlswood (Surrey),ELD,RH1 6HR
+Earlswood (West Midlands),EWD,B94 5JS
+East Croydon,ECR,CR0 1LF
+East Didsbury,EDY,M20 0WP
+East Dulwich,EDW,SE22 8EF
+East Farleigh,EFL,ME15 0JH
+East Garforth,EGF,LS25 2JW
+East Grinstead,EGR,RH19 1EB
+East Kilbride,EKL,G74 1AR
+East Malling,EML,ME19 6AJ
+East Midlands Parkway,EMD,NG11 0EE
+East Tilbury,ETL,RM18 8SB
+East Worthing,EWR,BN14 8ED
+Eastbourne,EBN,BN21 3QJ
+Eastbrook,EBK,CF64 4LD
+Easterhouse,EST,G69 6BL
+Eastham Rake,ERA,CH62 9AL
+Eastleigh,ESL,SO50 4FL
+Eastrington,EGN,DN14 7PX
+Ebbsfleet International,EBB,??
+Ebbw Vale Parkway,EBV,NP23 8AP
+Eccles,ECC,M30 0DN
+Eccles Road,ECS,NR16 2JG
+Eccleston Park,ECL,L35 7JS
+Edale,EDL,S33 7ZN
+Eden Park,EDN,BR3 3DE
+Edenbridge,EBR,TN8 6HR
+Edenbridge Town,EBT,TN8 5LP
+Edge Hill,EDG,L7 1AD
+Edinburgh,EDB,EH1 1BB
+Edinburgh Park,EDP,EH11 4DF
+Edmonton Green,EDR,N9 7AA
+Effingham Junction,EFF,KT24 5HX
+Eggesford,EGG,EX18 7JZ
+Egham,EGH,TW20 9LB
+Egton,EGT,YO21 1UX
+Elephant & Castle,EPH,SE17 1LB
+Elgin,ELG,IV30 1QP
+Ellesmere Port,ELP,CH65 4AR
+Elmers End,ELE,BR3 4EJ
+Elmstead Woods,ESD,BR7 5EB
+Elmswell,ESW,IP30 9HA
+Elsecar,ELR,S74 8BD
+Elsenham,ESM,CM22 6HA
+Elstree & Borehamwood,ELS,WD6 3LS
+Eltham,ELW,SE9 6SL
+Elton & Orston,ELO,NG19 9LH
+Ely,ELY,CB7 4BS
+Emerson Park,EMP,RM11 2JP
+Emsworth,EMS,PO10 7PN
+Enfield Chase,ENC,EN2 7AA
+Enfield Lock,ENL,EN3 6HA
+Enfield Town,ENF,EN1 1YX
+Entwistle,ENT,BL7 0NG
+Epsom,EPS,KT19 8EU
+Epsom Downs,EPD,KT17 4JX
+Erdington,ERD,B23 6UB
+Eridge,ERI,TN3 9LE
+Erith,ERH,DA8 1TY
+Esher,ESH,KT10 8DY
+Essex Road,EXR,N1 2SU
+Etchingham,ETC,TN19 7PA
+Euston,EUS,NW1 2RT
+Euxton Balshaw Lane,EBA,PR7 6DX
+Evesham,EVE,WR11 4EQ
+Ewell East,EWE,KT17 1QR
+Ewell West,EWW,KT17 1TU
+Exeter Central,EXC,EX4 3SB
+Exeter St. David's,EXD,EX4 4NT
+Exeter St. Thomas,EXT,EX4 1AJ
+Exhibition Centre Glasgow,EXG,G3 8LD
+Exmouth,EXM,EX8 1BZ
+Exton,EXN,EX3 0PR
+Eynsford,EYN,DA4 0HP
+Fairbourne,FRB,LL38 2AQ
+Fairfield,FRF,M43 6TT
+Fairlie,FRL,KA29 0DJ
+Fairwater,FRW,CF5 3QE
+Falconwood,FCN,SE9 2RN
+Falkirk Grahamston,FKG,FK2 7EZ
+Falkirk High,FKK,FK1 5QX
+Falls Of Cruachan,FOC,PA33 1AN
+Falmer,FMR,BN1 9PU
+Falmouth Docks,FAL,TR11 4LT
+Falmouth Town,FMT,TR11 4AZ
+Fambridge,FAM,??
+Fareham,FRM,PO16 0UT
+Farnborough (Main),FNB,GU14 7NL
+Farnborough North,FNN,GU14 2PL
+Farncombe,FNC,GU7 3NF
+Farnham,FNH,GU9 8AD
+Farningham Road,FNR,DA4 9JB
+Farnworth,FNW,BL4 7QZ
+Farringdon,FAR,??
+Fauldhouse,FLD,EH47 9DJ
+Faversham,FAV,ME13 8EB
+Faygate,FGT,RH12 4SJ
+Fazakerley,FAZ,L9 9EW
+Fearn,FRN,IV20 1RS
+Featherstone,FEA,WF7 7HJ
+Felixstowe,FLX,IP11 9UD
+Feltham,FEL,TW13 4BY
+Fenchurch Street,FST,EC3M 4AJ
+Feniton,FNT,EX14 3BT
+Fenny Stratford,FEN,MK1 1BP
+Fernhill,FER,CF45 3DP
+Ferriby,FRY,HU14 3DJ
+Ferryside,FYS,SA17 5TD
+Ffairfach,FFA,SA19 6UL
+Filey,FIL,YO14 9PE
+Filton Abbey Wood,FIT,BS34 7JW
+Finchley Road & Frognal,FNY,NW3 6EP
+Finsbury Park,FPK,N4 2DH
+Finstock,FIN,OX7 5RF
+Fishbourne,FSB,PO19 3QH
+Fishersgate,FSG,BN4 1LJ
+Fishguard Harbour,FGH,SA64 0BU
+Fiskerton,FSK,NG25 0TR
+Fitzwilliam,FZW,WF9 5DA
+Five Ways,FWY,B15 1SF
+Fleet,FLE,GU51 3QY
+Flimby,FLM,CA15 8QN
+Flint,FLN,CH6 5PG
+Flitwick,FLT,MK45 1AJ
+Flixton,FLI,M41 6JL
+Flowery Field,FLF,SK14 4BZ
+Folkestone Central,FKC,CT19 5HB
+Folkestone West,FKW,CT20 3PA
+Ford,FOD,BN18 0BH
+Forest Gate,FOG,E7 0NF
+Forest Hill,FOH,SE23 3HB
+Formby,FBY,L37 2JF
+Forres,FOR,IV36 0EL
+Forsinard,FRS,KW13 6YT
+Fort Matilda,FTM,PA16 7TS
+Fort William,FTW,PH33 6TQ
+Four Oaks,FOK,B74 2TD
+Foxfield,FOX,LA20 6BX
+Foxton,FXN,CB2 6SJ
+Frant,FRT,TN3 9BJ
+Fratton,FTN,PO1 5AW
+Freshfield,FRE,L37 7DD
+Freshford,FFD,BA2 7WQ
+Frimley,FML,GU16 5EW
+Frinton,FRI,CO13 9JT
+Frizinghall,FZH,BD9 4LD
+Frodsham,FRD,WA6 7DN
+Frome,FRO,BA11 1RE
+Fulwell,FLW,TW2 5NY
+Furness Vale,FNV,SK12 7QA
+Furze Platt,FZP,SL6 7NY
+Gainsborough Central,GNB,DN21 1XR
+Gainsborough Lea Road,GBL,DN21 1AH
+Garelochhead,GCH,G84 0EG
+Garforth,GRF,LS25 1PY
+Gargrave,GGV,BD23 3NE
+Garrowhill,GAR,G69 1AA
+Garscadden,GRS,G14 0EY
+Garsdale,GSD,LA10 5PQ
+Garston (Hertfordshire),GSN,WD17 1EU
+Garswood,GSW,WN4 0SA
+Gartcosh,GRH,G69 8DF
+Garth (Mid-Glamorgan),GMG,CF34 9HS
+Garth (Powys),GTH,LD4 4AF
+Garve,GVE,IV23 2QF
+Gathurst,GST,WN5 0LW
+Gatley,GTY,SK8 4AE
+Gatwick Airport,GTW,RH6 0RD
+Georgemas Junction,GGJ,KW12 6HH
+Gerrards Cross,GER,SL9 8PP
+Gidea Park,GDP,RM2 6BX
+Giffnock,GFN,G46 6JF
+Giggleswick,GIG,BD24 0EA
+Gilberdyke,GBD,HU15 2SU
+Gilfach Fargoed,GFF,CF81 8LT
+Gillingham (Dorset),GIL,SP8 4PZ
+Gillingham (Kent),GLM,ME7 1XE
+Gilshochill,GSC,G23 5LF
+Gipsy Hill,GIP,SE19 1QL
+Girvan,GIR,KA26 9HF
+Glaisdale,GLS,YO21 2QL
+Glan Conwy,GCW,LL28 5ED
+Glasgow Central,GLC,G1 3SL
+Glasgow Queen Street,GLQ,G1 2AF
+Glasshoughton,GLH,WF10 4TA
+Glazebrook,GLZ,WA3 5BA
+Gleneagles,GLE,PH3 1JL
+Glenfinnan,GLF,PH37 4LS
+Glengarnock,GLG,KA14 3AT
+Glenrothes with Thornton,GLT,KY1 4AE
+Glossop,GLO,SK13 8BS
+Gloucester,GCR,GL1 1DE
+Glynde,GLY,BN8 6RU
+Gobowen,GOB,SY11 3JS
+Godalming,GOD,GU7 1EU
+Godley,GDL,SK14 4DP
+Godstone,GDN,RH9 8EU
+Goldthorpe,GOE,S63 9BS
+Golf Street,GOF,DD7 7JG
+Golspie,GOL,KW10 6SZ
+Gomshall,GOM,GU5 9NX
+Goodmayes,GMY,IG3 9UH
+Goole,GOO,DN14 5DD
+Goostrey,GTR,CW4 8PJ
+Gordon Hill,GDH,EN2 0QU
+Goring & Streatley,GOR,RG8 0EP
+Goring-By-Sea,GBS,BN12 6NT
+Gorton,GTO,M11 1WN
+Gospel Oak,GPO,NW5 1LT
+Gourock,GRK,PA19 1QR
+Gowerton,GWN,SA4 3AJ
+Goxhill,GOX,DN19 7HS
+Grange Park,GPK,N21 1DB
+Grange-Over-Sands,GOS,LA11 6EH
+Grangetown (South Glamorgan),GTN,CF11 8UY
+Grantham,GRA,NG31 6BT
+Grateley,GRT,SP11 8TA
+Gravelly Hill,GVH,B23 7NH
+Gravesend,GRV,DA11 0HP
+Grays,GRY,RM17 6NQ
+Great Ayton,GTA,TS9 6HR
+Great Bentley,GRB,CO7 8LH
+Great Chesterford,GRC,CB10 1NY
+Great Coates,GCT,DN37 9NH
+Great Malvern,GMV,WR14 3AL
+Great Missenden,GMN,HP16 9AZ
+Great Yarmouth,GYM,NR30 1SD
+Green Lane,GNL,CH41 9AN
+Green Road,GNR,LA18 5HR
+Greenbank,GBK,CW9 7NJ
+Greenfaulds,GRL,G67 2XJ
+Greenfield,GNF,OL3 7JZ
+Greenford,GFD,UB6 8PX
+Greenhithe,GNH,DA9 9NQ
+Greenock Central,GKC,PA15 1DH
+Greenock West,GKW,PA15 1TE
+Greenwich,GNW,SE10 8JQ
+Gretna Green,GEA,DG16 5HF
+Grimsby Docks,GMD,DN31 3PB
+Grimsby Town,GMB,DN31 1LY
+Grindleford,GRN,S32 2HY
+Grosmont,GMT,YO22 5QE
+Grove Park,GRP,SE12 0DZ
+Guide Bridge,GUI,M34 5HF
+Guildford,GLD,GU1 4UT
+Guiseley,GSY,LS20 8BX
+Gunnersbury,GUN,W4 4AN
+Gunnislake,GSL,PL18 9DZ
+Gunton,GNT,NR11 8UD
+Gwersyllt,GWE,LL11 4LD
+Gypsy Lane,GYP,TS7 0DY
+Habrough,HAB,DN40 3AB
+Hackbridge,HCB,SM6 7BJ
+Hackney Central,HKC,E8 1LL
+Hackney Downs,HAC,E8 1LA
+Hackney Wick,HKW,E9 5LH
+Haddenham & Thame Parkway,HDM,HP17 8EP
+Haddiscoe,HAD,NR31 9JA
+Hadfield,HDF,SK14 7AA
+Hadley Wood,HDW,EN4 0EL
+Hag Fold,HGF,M46 9WX
+Haggerston,HGG,E8 4DY
+Hagley,HAG,DY9 0NX
+Hairmyres,HMY,G75 8SW
+Hale,HAL,WA14 2UZ
+Halesworth,HAS,IP19 8BZ
+Halewood,HED,L26 0TH
+Halifax,HFX,HX1 1QE
+Hall Green,HLG,B28 8AA
+Hall I' Th' Wood,HID,BL1 8UF
+Hall Road,HLR,L23 8TU
+Halling,HAI,ME1 1BN
+Haltwhistle,HWH,NE49 0AH
+Ham Street,HMT,TN26 2DU
+Hamble,HME,SO31 4NL
+Hamilton Central,HNC,ML3 6PB
+Hamilton West,HNW,ML03 0DA
+Hammerton,HMM,Y26 8DG
+Hampden Park,HMD,BN22 9ND
+Hampstead Heath,HDH,NW3 2QD
+Hampton,HMP,TW12 2HU
+Hampton Court,HMC,KT8 9AE
+Hampton Wick,HMW,KT1 4DQ
+Hampton-In-Arden,HIA,B92 0BJ
+Hamstead,HSD,B42 1NJ
+Hamworthy,HAM,BH16 5AA
+Handborough,HND,OX8 6TF
+Handforth,HTH,SK9 3AB
+Hanwell,HAN,W7 3EB
+Hapton,HPN,BB12 7LG
+Harlech,HRL,LL46 2UL
+Harlesden,HDN,NW10 7AA
+Harling Road,HRD,NR16 2QP
+Harlington,HLN,LU5 6LD
+Harlow Mill,HWM,CM20 2EL
+Harlow Town,HWN,CM20 2JD
+Harold Wood,HRO,RM3 0BL
+Harpenden,HPD,AL5 4ST
+Harrietsham,HRM,ME17 1JA
+Harringay,HGY,N4 1RE
+Harringay Green Lanes,HRY,N4 1DR
+Harrington,HRR,CA14 5QQ
+Harrogate,HGT,HG1 1TE
+Harrow & Wealdstone,HRW,HA3 5BP
+Harrow-On-The-Hill,HOH,HA1 1BB
+Hartford,HTF,CW8 1QX
+Hartlebury,HBY,DY10 4HB
+Hartlepool,HPL,TS24 7ED
+Hartwood,HTW,ML7 7DU
+Harwich International,HPQ,CO12 4SR
+Harwich Town,HWC,CO12 3NA
+Haslemere,HSL,GU27 2PE
+Hassocks,HSK,BN6 8JD
+Hastings,HGS,TN34 1BA
+Hatch End,HTE,HA5 4HU
+Hatfield,HAT,AL9 5AB
+Hatfield & Stainforth,HFS,DN7 4EQ
+Hatfield Peverel,HAP,CM3 2DX
+Hathersage,HSG,S32 1DT
+Hattersley,HTY,SK14 3HG
+Hatton,HTN,CV35 7LE
+Havant,HAV,PO9 1PP
+Havenhouse,HVN,PE24 4AR
+Haverfordwest,HVF,SA61 1TY
+Hawarden,HWD,CH5 1PY
+Hawarden Bridge,HWB,CH5 1PY
+Hawkhead,HKH,PA2 7BB
+Haydon Bridge,HDB,NE47 6LL
+Haydons Road,HYR,SW19 8SL
+Hayes (Kent),HYS,BR2 7EN
+Hayes & Harlington,HAY,UB3 4BX
+Hayle,HYL,TR27 4NG
+Haymarket,HYM,EH12 5EY
+Haywards Heath,HHE,RH16 1DJ
+Hazel Grove,HAZ,SK7 4EX
+Headcorn,HCN,TN27 9SD
+Headingley,HDY,LS5 3LD
+Headstone Lane,HDL,HA2 6NB
+Heald Green,HDG,SK8 3DY
+Healing,HLI,DN37 7RY
+Heath High Level,HHL,CF23 5QT
+Heath Low Level,HLL,CF23 5QT
+Heaton Chapel,HTC,SK4 4NX
+Hebden Bridge,HBD,HX7 6JE
+Heckington,HEC,NG34 9UJ
+Hedge End,HDE,SO30 2RZ
+Hednesford,HNF,WS12 1AZ
+Heighington,HEI,DL5 6PX
+Helensburgh Central,HLC,G84 7QF
+Helensburgh Upper,HLU,G84 9LG
+Hellifield,HLD,BD23 4HN
+Helmsdale,HMS,KW8 6HH
+Helsby,HSB,WA6 0AE
+Hemel Hempstead,HML,HP3 9BQ
+Hendon,HEN,NW4 4PT
+Hengoed,HNG,CF82 7LT
+Henley-In-Arden,HNL,B95 5JH
+Henley-On-Thames,HOT,RG9 1AY
+Hensall,HEL,DN14 0QN
+Hereford,HFD,HR1 1BB
+Herne Bay,HNB,CT6 8PJ
+Herne Hill,HNH,SE24 0JW
+Hersham,HER,KT12 4SQ
+Hertford East,HFE,SG14 1SB
+Hertford North,HFN,SG14 1NB
+Hessle,HES,HU13 0EL
+Heswall,HSW,CH60 1XQ
+Hever,HEV,TN8 7ER
+Heworth,HEW,NE10 0NE
+Hexham,HEX,NE46 1EU
+Heyford,HYD,OX6 8UL
+Heysham Harbour,HHB,LA3 2XE
+High Brooms,HIB,TN2 3XE
+High Street,HST,G1 1PZ
+High Wycombe,HWY,HP13 6NN
+Higham,HGM,ME3 7JQ
+Highams Park,HIP,E4 9LA
+Highbridge & Burnham,HIG,TA9 3BT
+Highbury & Islington,HHY,N5 1RA
+Hightown,HTO,L38 3RX
+Hildenborough,HLB,TN11 8LX
+Hillfoot,HLF,G61 3PG
+Hillington East,HLE,G52 2LL
+Hillington West,HLW,G52 4NQ
+Hillside,HIL,PR8 4QR
+Hilsea,HLS,PO3 5PT
+Hinchley Wood,HYW,KT10 0SR
+Hinckley,HNK,LE10 1UE
+Hindley,HIN,WN2 2QJ
+Hinton Admiral,HNA,BH23 7DW
+Hitchin,HIT,SG4 9UL
+Hither Green,HGR,SE13 5NF
+Hockley,HOC,SS5 4BG
+Hollingbourne,HBN,ME17 1TX
+Holmes Chapel,HCH,CW4 8AA
+Holmwood,HLM,RH5 4RB
+Holton Heath,HOL,BH16 6JT
+Holyhead,HHD,LL65 2BT
+Holytown,HLY,ML1 4HD
+Homerton,HMN,E9 5SB
+Honeybourne,HYB,WR11 6RD
+Honiton,HON,EX14 8DA
+Honley,HOY,HD9 6LT
+Honor Oak Park,HPA,SE23 1EB
+Hook,HOK,RG27 9HS
+Hooton,HOO,CH66 7NL
+Hope (Clwyd),HPE,LL12 9NJ
+Hope (Derbyshire),HOP,S33 6RD
+Hopton Heath,HPT,SY7 0QD
+Horley,HOR,RH6 7NL
+Hornbeam Park,HBP,HG2 8QT
+Hornsey,HRN,N8 9DJ
+Horsforth,HRS,LS18 5NL
+Horsham,HRH,RH12 1RD
+Horsley,HSY,KT24 6QX
+Horton In Ribblesdale,HIR,BD24 0HH
+Horwich Parkway,HWI,BL6 6LB
+Hoscar,HSC,L40 4BL
+Hough Green,HGN,WA8 7XU
+Hounslow,HOU,TW3 2DQ
+Hove,HOV,BN3 3RU
+Hoveton & Wroxham,HXM,NR12 8UR
+How Wood (Hertfordshire),HWW,AL2 2NG
+Howden,HOW,DN14 7SE
+Howwood,HOZ,PA9 1AZ
+Hoxton,HOX,E2 8FF
+Hoylake,HYK,CH47 4AA
+Hubberts Bridge,HBB,PE20 3SG
+Hucknall,HKN,NG15 7TD
+Huddersfield,HUD,HD1 1JB
+Hull,HUL,HU1 3QX
+Humphrey Park,HUP,M32 9PP
+Huncoat,HCT,BB5 6LT
+Hungerford,HGD,RG17 0DY
+Hunmanby,HUB,YO14 0LR
+Hunt's Cross,HNX,L25 0NN
+Huntingdon,HUN,PE29 3BP
+Huntly,HNT,AB54 5HS
+Hurst Green,HUR,RH8 0LL
+Hutton Cranswick,HUT,YO25 5HP
+Huyton,HUY,L36 5XE
+Hyde Central,HYC,SK14 1AA
+Hyde North,HYT,SK16 5RH
+Hykeham,HKM,LN6 9AT
+Hyndland,HYN,G12 9PP
+Hythe,HYH,CO2 8JR
+IBM,IBM,PA16 0XB
+Ifield,IFI,RH11 0JP
+Ilford,IFD,IG1 4DU
+Ilkley,ILK,LS29 8HF
+Imperial Wharf,IMW,SW6 2ZH
+Ince,INC,WN2 2DA
+Ince & Elton,INE,CH2 4NG
+Ingatestone,INT,CM4 0BW
+Insch,INS,AB52 6PU
+Invergordon,IGD,IV18 0RY
+Invergowrie,ING,DD2 5DS
+Inverkeithing,INK,KY11 1NJ
+Inverkip,INP,PA16 0AS
+Inverness,INV,IV2 3PY
+Invershin,INH,IV27 4ET
+Inverurie,INR,AB51 9TN
+Ipswich,IPS,IP2 8AL
+Irlam,IRL,M44 5AB
+Irvine,IRV,KA12 8NU
+Isleworth,ISL,TW7 4BX
+Islip,ISP,OX5 2TQ
+Iver,IVR,SL0 9AU
+Ivybridge,IVY,PL21 0DQ
+Jewellery Quarter,JEQ,B18 6LE
+Johnston (Dyfed),JOH,SA62 3PL
+Johnstone,JHN,PA5 8HE
+Jordanhill,JOR,G13 1QL
+Kearsley,KSL,BL4 8DU
+Kearsney,KSN,CT17 0RN
+Keighley,KEI,BD21 4HP
+Keith,KEH,AB55 3DR
+Kelvedon,KEL,CO5 9NP
+Kelvindale,KVD,G20 0TB
+Kemble,KEM,GL7 6AW
+Kempston Hardwick,KMH,MK43 9NT
+Kempton Park,KMP,TW16 5AE
+Kemsing,KMS,TN15 6NT
+Kemsley,KML,ME10 2ST
+Kendal,KEN,LA9 6BT
+Kenley,KLY,CR8 5JA
+Kennett,KNE,CB8 7QD
+Kennishead,KNS,G46 8HP
+Kensal Green,KNL,NW10 5JT
+Kensal Rise,KNR,NW10 3JN
+Kensington Olympia,KPA,W14 0NE
+Kent House,KTH,BR3 1JF
+Kentish Town,KTN,NW5 2AA
+Kentish Town West,KTW,NW5 3LR
+Kenton,KNT,HA3 0AZ
+Kents Bank,KBK,LA11 7BG
+Kettering,KET,NN15 7HJ
+Kew Bridge,KWB,TW8 9QS
+Kew Gardens,KWG,TW9 3BZ
+Keyham,KEY,PL2 2BP
+Keynsham,KYN,BS31 2BN
+Kidbrooke,KDB,SE3 9PL
+Kidderminster,KID,DY10 1QZ
+Kidsgrove,KDG,ST7 1BX
+Kidwelly,KWL,SA17 4UH
+Kilburn High Road,KBN,NW6 5UA
+Kildale,KLD,YO21 2RT
+Kildonan,KIL,KW8 6HY
+Kilgetty,KGT,SA68 0UF
+Kilmarnock,KMK,KA1 2AF
+Kilmaurs,KLM,KA3 2QX
+Kilpatrick,KPT,G60 5LX
+Kilwinning,KWN,KA13 6NT
+Kinbrace,KBC,KW11 6UB
+King's Cross,KGX,N1 9AL
+King's Langley,KGL,WD4 8LF
+King's Lynn,KLN,PE30 1NX
+King's Norton,KNN,B30 3EG
+King's Nympton,KGN,EX37 9EU
+King's Park,KGP,G44 5UT
+King's Sutton,KGS,OX17 3RR
+Kingham,KGM,OX7 6UP
+Kinghorn,KGH,KY3 9RA
+Kingsknowe,KGE,EH14 2JX
+Kingston,KNG,KT1 1UJ
+Kingswood,KND,KT20 6EN
+Kingussie,KIN,PH21 1EN
+Kintbury,KIT,RG17 9UT
+Kirby Cross,KBX,CO13 0LU
+Kirk Sandall,KKS,DN3 1LL
+Kirkby (Merseyside),KIR,L32 2AE
+Kirkby in Ashfield,KKB,NG17 8EJ
+Kirkby Stephen,KSW,CA17 4LE
+Kirkby-In-Furness,KBF,LA17 7UB
+Kirkcaldy,KDY,KY1 1YL
+Kirkconnel,KRK,DG4 6NL
+Kirkdale,KKD,L20 2BN
+Kirkham & Wesham,KKM,PR4 3AA
+Kirkhill,KKH,G72 8NL
+Kirknewton,KKN,EH27 8BP
+Kirkwood,KWD,ML5 5RS
+Kirton Lindsey,KTL,DN21 4BD
+Kiveton Bridge,KIV,S31 8QP
+Kiveton Park,KVP,S31 8NP
+Knaresborough,KNA,HG5 9AA
+Knebworth,KBW,SG3 6AT
+Knighton,KNI,LD7 1DT
+Knockholt,KCK,TN14 7HR
+Knottingley,KNO,WF11 8ED
+Knucklas,KNU,LD7 1PN
+Knutsford,KNF,WA16 0PA
+Kyle Of Lochalsh,KYL,IV40 8AH
+Ladybank,LDY,KY15 7JS
+Ladywell,LAD,SE13 7XB
+Laindon,LAI,SS15 6AB
+Lairg,LRG,IV27 4EX
+Lake,LKE,PO36 8PJ
+Lakenheath,LAK,IP27 9AD
+Lamphey,LAM,SA17 5NR
+Lanark,LNK,ML11 7JP
+Lancaster,LAN,LA1 5NW
+Lancing,LAC,BN15 8AG
+Landywood,LAW,WS6 6JE
+Langbank,LGB,PA14 6PD
+Langho,LHO,BB6 8EZ
+Langley,LNY,SL3 6DB
+Langley Green,LGG,B69 4LZ
+Langley Mill,LGM,NG16 4AT
+Langside,LGS,G43 2JH
+Langwathby,LGW,CA10 1NZ
+Langwith,LAG,NG20 9HS
+Lapford,LAP,EX17 6QU
+Lapworth,LPW,B94 6JJ
+Larbert,LBT,FK5 4AN
+Largs,LAR,KA30 8AN
+Larkhall,LRH,ML9 1DP
+Laurencekirk,LAU,AB30 1BE
+Lawrence Hill,LWH,BS5 9JJ
+Layton,LAY,FY2 0SX
+Lazonby & Kirkoswald,LZB,CA10 1DL
+Lea Green,LEG,WA9 3BZ
+Lea Hall,LEH,B33 8JU
+Leagrave,LEA,LU4 9BA
+Lealholm,LHM,YO21 2AG
+Leamington Spa,LMS,CV31 3NS
+Leasowe,LSW,CH46 1QN
+Leatherhead,LHD,KT22 7SQ
+Ledbury,LED,HR8 1AR
+Lee,LEE,SE12 9JG
+Leeds,LDS,LS1 4DY
+Leicester,LEI,LE2 0QB
+Leigh (Kent),LIH,TN11 8RU
+Leigh-On-Sea,LES,SS9 2ET
+Leighton Buzzard,LBZ,LU7 2LY
+Lelant,LEL,TR26 3DS
+Lelant Saltings,LTS,TR26 3DL
+Lenham,LEN,ME17 2HR
+Lenzie,LNZ,G66 4UA
+Leominster,LEO,HR6 8AR
+Letchworth,LET,SG6 3AN
+Leuchars,LEU,KY16 0AA
+Levenshulme,LVM,M19 3PJ
+Lewes,LWS,BN7 2UP
+Lewisham,LEW,SE13 7RY
+Leyland,LEY,PR25 3NN
+Leyton Midland Road,LEM,E10 6JT
+Leytonstone High Road,LER,E11 4RE
+Lichfield City,LIC,WS13 6HX
+Lichfield Trent Valley,LTV,WS13 6HE
+Lidlington,LID,MK43 0SA
+Limehouse,LHS,E14 7JD
+Lincoln Central,LCN,LN5 7EW
+Lingfield,LFD,RH7 6EF
+Lingwood,LGD,NR13 4AU
+Linlithgow,LIN,EH49 7DH
+Liphook,LIP,GU30 7DR
+Liskeard,LSK,PL14 4DX
+Liss,LIS,GU33 7AA
+Lisvane and Thornhill,LVT,CF14 0UE
+Little Kimble,LTK,HP17 0XP
+Little Sutton,LTT,CH66 1PA
+Littleborough,LTL,OL15 8AR
+Littlehampton,LIT,BN17 5BS
+Littlehaven,LVN,RH12 4PB
+Littleport,LTP,CB6 1JL
+Liverpool Central,LVC,L1 1JT
+Liverpool James Street,LVJ,L2 7PQ
+Liverpool Lime Street,LIV,L1 1JD
+Liverpool South Parkway,LSP,??
+Liverpool Street,LST,EC2M 7PY
+Livingston North,LSN,EH54 7EE
+Livingston South,LVG,EH54 9AP
+Llanaber,LLA,LL42 1AZ
+Llanbedr,LBR,LL45 2LR
+Llanbister Road,LLT,LD1 5UW
+Llanbradach,LNB,CF83 3NE
+Llandaf,LLN,CF4 2FG
+Llandanwg,LDN,LL46 2SB
+Llandecwyn,LLC,LL47 6YL
+Llandeilo,LLL,SA19 6ND
+Llandovery,LLV,SA20 0BG
+Llandrindod,LLO,LD1 5BB
+Llandudno,LLD,LL30 2AF
+Llandudno Junction,LLJ,LL31 9NB
+Llandybie,LLI,SA18 3UN
+Llanelli,LLE,SA15 2RN
+Llanfairfechan,LLF,LL33 0BP
+Llanfairpwll,LPG,LL61 5UJ
+Llangadog,LLG,SA19 9LU
+Llangammarch,LLM,LD4 4EE
+Llangennech,LLH,SA14 8UY
+Llangynllo,LGO,LD7 1SY
+Llanharan,LLR,CF72 9QA
+Llanhilleth,LTH,NP13 2HT
+Llanishen,LLS,CF14 5UW
+Llanrwst,LWR,LL26 0AD
+Llansamlet,LAS,SA7 9RY
+Llantwit Major,LWM,CF61 1ST
+Llanwrda,LNR,SA19 8EH
+Llanwrtyd,LNW,LD5 4RW
+Llwyngwril,LLW,LL37 2JS
+Llwynypia,LLY,CF40 2JJ
+Loch Awe,LHA,PA33 1AQ
+Loch Eil Outward Bound,LHE,PH33 7NN
+Lochailort,LCL,PH38 4LZ
+Locheilside,LCS,PH33 7PN
+Lochgelly,LCG,KY5 9EP
+Lochluichart,LCC,IV23 2PZ
+Lochwinnoch,LHW,PA12 4JF
+Lockerbie,LOC,DG11 2HA
+Lockwood,LCK,HD1 3UB
+London Bridge,LBG,SE1 9SP
+London Fields,LOF,E8 3PH
+London Road Brighton,LRB,BN1 4QS
+London Road Guildford,LON,??
+Long Buckby,LBK,NN6 7QA
+Long Eaton,LGE,NG10 3GS
+Long Preston,LPR,BD23 4NH
+Longbeck,LGK,TS11 6HD
+Longbridge,LOB,B31 2TW
+Longcross,LNG,GU25 4JR
+Longfield,LGF,DA3 7QA
+Longniddry,LND,EH32 0LS
+Longport,LPT,ST6 4ND
+Longton,LGN,ST3 1EZ
+Looe,LOO,PL13 1HN
+Lostock Gralam,LTG,CW9 7NU
+Lostock Hall,LOH,PR5 5NF
+Lostock Parkway,LOT,BL6 4JP
+Lostwithiel,LOS,PL22 0EW
+Loughborough,LBO,LE11 1EX
+Loughborough Junction,LGJ,SW9 8SA
+Lowdham,LOW,NG14 7DU
+Lower Sydenham,LSY,SE26 5BN
+Lowestoft,LWT,NR32 2EG
+Ludlow,LUD,SY8 2PQ
+Luton,LUT,LU1 2LT
+Luton Airport Parkway,LTN,LU1 3JW
+Luxulyan,LUX,PL31 2NW
+Lydney,LYD,GL15 5EW
+Lye,LYE,DY9 8ES
+Lymington Pier,LYP,SO41 5ZE
+Lymington Town,LYT,SO41 9AZ
+Lympstone Commando,LYC,EX8 5AA
+Lympstone Village,LYM,EX8 5JW
+Lytham,LTM,FY8 5NJ
+Macclesfield,MAC,SK11 6JP
+Machynlleth,MCN,SY20 8BL
+Maesteg,MST,CF34 9BL
+Maesteg (Ewenny Road),MEW,CF34 9TS
+Maghull,MAG,L31 3DE
+Maiden Newton,MDN,DT2 0AE
+Maidenhead,MAI,SL6 1EW
+Maidstone Barracks,MDB,ME16 0SQ
+Maidstone East,MDE,ME14 1QN
+Maidstone West,MDW,ME16 8RJ
+Malden Manor,MAL,KT3 5PD
+Mallaig,MLG,PH41 4QA
+Malton,MLT,YO17 9RD
+Malvern Link,MVL,WR14 1SW
+Manchester Airport,MIA,M90 3RR
+Manchester Oxford Road,MCO,M1 6FU
+Manchester Piccadilly,MAN,M60 7RA
+Manchester Victoria,MCV,M3 1WY
+Manea,MNE,PE15 0HG
+Manningtree,MNG,CO11 2HH
+Manor Park,MNP,E12 5EP
+Manor Road,MNR,CH47 3DF
+Manorbier,MRB,SA70 7SN
+Manors,MAS,NE1 6UR
+Mansfield Town,MFT,NG18 5RN
+Mansfield Woodhouse,MSW,NG19 8DA
+March,MCH,PE15 8SJ
+Marden,MRN,TN12 9HS
+Margate,MAR,CT9 5AD
+Market Harborough,MHR,LE16 7DT
+Market Rasen,MKR,LN8 3AQ
+Markinch,MNC,KY7 6DH
+Marks Tey,MKT,CO6 1EE
+Marlow,MLW,SL7 1NT
+Marple,MPL,SK6 7DA
+Marsden,MSN,HD7 6AX
+Marske,MSK,TS11 6JF
+Marston Green,MGN,B37 7AB
+Martin Mill,MTM,CT15 5LD
+Martins Heron,MAO,RG12 9TZ
+Marton,MTO,TS7 9AP
+Maryhill,MYH,G20 8HL
+Maryland,MYL,E15 1SA
+Marylebone,MYB,NW1 6JJ
+Maryport,MRY,CA15 6DA
+Matlock,MAT,DE4 3NA
+Matlock Bath,MTB,DE4 5JA
+Mauldeth Road,MAU,M14 6SQ
+Maxwell Park,MAX,G41 4DT
+Maybole,MAY,KA19 8DS
+Maze Hill,MZH,SE10 9XG
+Meadowhall,MHS,S9 1JQ
+Meldreth,MEL,SG8 6JP
+Melksham,MKM,SN12 8BN
+Melton,MES,IP12 1LT
+Melton Mowbray,MMO,LE13 1AF
+Menheniot,MEN,PL14 3PJ
+Menston,MNN,LS29 6JH
+Meols,MEO,CH47 9RA
+Meols Cop,MEC,PR8 6AY
+Meopham,MEP,DA13 0LT
+Merryton,MEY,ML9 2UW
+Merstham,MHM,RH1 3ED
+Merthyr Tydfil,MER,CF47 7OH
+Merthyr Vale,MEV,CF48 4TE
+Metheringham,MGM,LN4 3HX
+MetroCentre,MCE,NE11 9GA
+Mexborough,MEX,S64 9AQ
+Micheldever,MIC,SO21 3AP
+Micklefield,MIK,LS25 4AQ
+Middlesbrough,MBR,TS1 1EG
+Middlewood,MDL,SK6 8AU
+Midgham,MDG,RG7 5SE
+Milford (Surrey),MLF,GU8 5AD
+Milford Haven,MFH,SA73 3AB
+Mill Hill (Lancashire),MLH,BB2 2QY
+Mill Hill Broadway,MIL,NW7 2JU
+Millbrook (Bedfordshire),MLB,MK45 2JH
+Millbrook (Hampshire),MBK,SO15 4JT
+Milliken Park,MIN,PA5 8PQ
+Millom,MLM,LA18 4AY
+Mills Hill,MIH,M24 2HJ
+Milngavie,MLN,G62 8PG
+Milton Keynes Central,MKC,MK9 1LA
+Minffordd,MFF,LL48 6HG
+Minster,MSR,CT12 4HX
+Mirfield,MIR,WF14 8NL
+Mistley,MIS,CO11 1HH
+Mitcham Eastfields,MTC,CR4 2ND
+Mitcham Junction,MIJ,CR4 4HN
+Mobberley,MOB,WA16 7QL
+Monifieth,MON,DD5 4NN
+Monks Risborough,MRS,HP27 9JQ
+Montpelier,MTP,BS6 5EE
+Montrose,MTS,DD10 8LW
+Moorfields,MRF,L2 2BS
+Moorgate,MOG,EC2Y 9AE
+Moorside,MSD,M27 9PU
+Moorthorpe,MRP,WF9 3AT
+Morar,MRR,PH40 4PB
+Morchard Road,MRD,EX17 5LR
+Morden South,MDS,SM4 5HB
+Morecambe,MCM,LA4 4DE
+Moreton (Dorset),MTN,DT2 8BB
+Moreton (Merseyside),MRT,CH46 8SD
+Moreton-In-Marsh,MIM,GL56 0AA
+Morfa Mawddach,MFA,LL39 1BQ
+Morley,MLY,LS27 8JR
+Morpeth,MPT,NE61 2SL
+Mortimer,MOR,RG7 3NY
+Mortlake,MTL,SW14 8IN
+Moses Gate,MSS,BL4 7LT
+Moss Side,MOS,FY8 4NB
+Mossley (Greater Manchester),MSL,OL5 0AB
+Mossley Hill,MSH,L18 8AG
+Mosspark,MPK,G52 3ET
+Moston,MSO,M40 3NB
+Motherwell,MTH,ML1 1BL
+Motspur Park,MOT,KT3 6JJ
+Mottingham,MTG,SE9 4EW
+Mouldsworth,MLD,WA6 9EG
+Moulsecoomb,MCB,BN2 4GP
+Mount Florida,MFL,G41 1RR
+Mountain Ash,MTA,CF45 3HD
+Mt. Vernon,MTV,G69 7DB
+Muir Of Ord,MOO,IV6 7ST
+Muirend,MUI,G44 4QR
+Musselburgh,MUB,EH21 6TT
+Mytholmroyd,MYT,HX7 5DZ
+Nafferton,NFN,YO25 0LS
+Nailsea & Backwell,NLS,BS48 3LH
+Nairn,NRN,IV12 4QS
+Nantwich,NAN,CW5 5SS
+Narberth,NAR,SA67 8TY
+Narborough,NBR,LE19 2HR
+Navigation Road,NVR,WA14 1SR
+Neath,NTH,SA11 1BY
+Needham Market,NMT,IP6 8AS
+Neilston,NEI,G78 3EE
+Nelson,NEL,BB9 9SF
+Neston,NES,CH64 9SR
+Netherfield,NET,NG4 2JB
+Nethertown,NRT,CA22 2UG
+Netley,NTL,SO31 5AN
+New Barnet,NBA,EN5 1QT
+New Beckenham,NBC,BR3 1QN
+New Brighton,NBN,CH45 2NY
+New Clee,NCE,DN32 5GR
+New Cross,NWX,SE14 6LD
+New Cross Gate,NXG,SE14 6AR
+New Cumnock,NCK,KA18 4DG
+New Eltham,NEH,SE9 2AB
+New Holland,NHL,DN19 7BE
+New Hythe,NHE,ME20 6XJ
+New Lane,NLN,L40 0RY
+New Malden,NEM,KT3 4PX
+New Mills Central,NMC,SK22 3JB
+New Mills Newtown,NMN,SK22 3JP
+New Milton,NWM,BH25 6JS
+New Pudsey,NPD,LS28 6QG
+New Southgate,NSG,N11 1QH
+Newark Castle,NCT,NG24 1FW
+Newark North Gate,NNG,NG24 1LS
+Newbridge,NBE,NP11 5FH
+Newbury,NBY,RG14 5DG
+Newbury Racecourse,NRC,RG14 5ST
+Newcastle,NCL,NE1 5DL
+Newcraighall,NEW,EH21 8QT
+Newhaven Harbour,NVH,BN9 0BB
+Newhaven Town,NVN,BN9 0DF
+Newington,NGT,ME9 7LQ
+Newmarket,NMK,CB8 9BB
+Newport (Essex),NWE,CB11 3PL
+Newport (Gwent),NWP,NP20 4AX
+Newquay,NQY,TR7 2NF
+Newstead,NSD,NG15 0BF
+Newton,NTN,G72 7TD
+Newton Abbot,NTA,TQ12 2JE
+Newton Aycliffe,NAY,DL5 7BG
+Newton For Hyde,NWN,SK14 2PJ
+Newton St.Cyres,NTC,EX5 5AP
+Newton-Le-Willows,NLW,WA12 9SF
+Newton-On-Ayr,NOA,KA8 9BP
+Newtonmore,NWR,PH20 1AL
+Newtown,NWT,SY16 1BP
+Ninian Park,NNP,CF11 8AH
+Nitshill,NIT,G53 7NX
+Norbiton,NBT,KT2 7AZ
+Norbury,NRB,SW16 3RW
+Normans Bay,NSB,BN24 6PR
+Normanton,NOR,WF6 2BG
+North Berwick,NBW,EH39 4BY
+North Camp,NCM,GU12 5QA
+North Dulwich,NDL,SE24 7BX
+North Llanrwst,NLR,LL26 0EG
+North Queensferry,NQU,KY11 1JE
+North Road,NRD,DL3 6ST
+North Sheen,NSH,TW9 4QA
+North Walsham,NWA,NR28 0DZ
+North Wembley,NWB,HA9 7NT
+Northallerton,NTR,DL7 8AN
+Northampton,NMP,NN1 1SP
+Northfield,NFD,B31 2PY
+Northfleet,NFL,DA11 9DY
+Northolt Park,NLT,UB5 4NP
+Northumberland Park,NUM,N17 0HY
+Northwich,NWI,CW9 5LY
+Norwich,NRW,NR1 1EF
+Norwood Junction,NWD,SE25 5AG
+Nottingham,NOT,NG2 3AQ
+Nuneaton,NUN,CV11 4BU
+Nunhead,NHD,SE15 3XE
+Nunthorpe,NNT,TS7 0BL
+Nutbourne,NUT,PO18 8SH
+Nutfield,NUF,RH1 5RR
+Oakengates,OKN,TF2 6DH
+Oakham,OKM,LE15 6QT
+Oakleigh Park,OKL,EN5 1BU
+Oban,OBN,PA34 4LW
+Ockendon,OCK,RM15 6PD
+Ockley,OLY,RH5 5HT
+Okehampton,OKE,EX20 1EJ
+Old Hill,OHL,B64 6PL
+Old Roan,ORN,L30 8RD
+Old Street,OLD,EC1Y 1BE
+Oldfield Park,OLF,BA2 3RS
+Olton,OLT,B92 7AR
+Ore,ORE,TN34 3ND
+Ormskirk,OMS,L39 2YN
+Orpington,ORP,BR6 0SX
+Orrell,ORR,WN5 8TH
+Orrell Park,OPK,L9 8BU
+Otford,OTF,TN14 5QY
+Oulton Broad North,OUN,NR32 3LJ
+Oulton Broad South,OUS,NR33 8QX
+Outwood,OUT,WF1 2NX
+Overpool,OVE,CH66 3LW
+Overton,OVR,RG25 3JG
+Oxenholme Lake District,OXN,LA9 7HG
+Oxford,OXF,OX1 1HS
+Oxshott,OXS,KT22 0TA
+Oxted,OXT,RH8 9EU
+Paddington,PAD,W2 1HQ
+Paddock Wood,PDW,TN12 6ER
+Padgate,PDG,WA2 0QS
+Paignton,PGN,TQ4 5EF
+Paisley Canal,PCN,PA2 6SZ
+Paisley Gilmour Street,PYG,PA3 2DA
+Paisley St.James,PYJ,PA3 1RB
+Palmers Green,PAL,N13 4PN
+Pangbourne,PAN,RG8 7DY
+Pannal,PNL,HG3 1JN
+Pantyffynnon,PTF,SA18 3HW
+Par,PAR,PL24 2LT
+Parbold,PBL,WN8 7NU
+Park Street,PKT,AL2 2NG
+Parkstone,PKS,BH14 8UD
+Parson Street,PSN,BS3 5PU
+Partick,PTK,G11 6BU
+Parton,PRN,CA28 6PA
+Patchway,PWY,BS34 6LP
+Patricroft,PAT,M30 0GX
+Patterton,PTT,G77 6NR
+Peartree,PEA,DE24 8DT
+Peckham Rye,PMR,SE15 5DQ
+Pegswood,PEG,NE61 6SJ
+Pemberton,PEM,WN5 9HX
+Pembrey & Burry Port,PBY,SA16 0LW
+Pembroke,PMB,SA71 4AH
+Pembroke Dock,PMD,SA72 6HN
+Pen-Y-Bont,PNY,LD1 6RE
+Penally,PNA,SA70 7PS
+Penarth,PEN,CF64 3DQ
+Pencoed,PCD,CF35 5NP
+Pengam,PGM,NP12 3XL
+Penge East,PNE,SE20 7BQ
+Penge West,PNW,SE20 8NU
+Penhelig,PHG,LL35 0LU
+Penistone,PNS,S30 6FG
+Penkridge,PKG,ST19 5AN
+Penmaenmawr,PMW,LL34 6AT
+Penmere,PNM,TR11 2QZ
+Penrhiwceiber,PER,CF45 3ST
+Penrhyndeudraeth,PRH,LL48 6LN
+Penrith,PNR,CA11 7JQ
+Penryn,PYN,TR10 8HF
+Pensarn,PES,LL45 2HP
+Penshurst,PHR,TN11 8JE
+Pentre-Bach,PTB,CF48 4BD
+Penyffordd,PNF,CH4 0JT
+Penzance,PNZ,TR18 2LT
+Perranwell,PRW,TR3 7JY
+Perry Barr,PRY,B20 3JE
+Pershore,PSH,WR10 6FG
+Perth,PTH,PH2 8RT
+Peterborough,PBO,PE1 1QL
+Petersfield,PTR,GU32 3EE
+Petts Wood,PET,BR5 1NA
+Pevensey & Westham,PEV,BN24 5ND
+Pevensey Bay,PEB,BN24 6AA
+Pewsey,PEW,SN9 5ER
+Pilning,PIL,BS35 4JT
+Pinhoe,PIN,EX1 3SE
+Pitlochry,PIT,PH16 5AN
+Pitsea,PSE,SS16 4UD
+Pleasington,PLS,BB2 5JQ
+Plockton,PLK,IV52 8TX
+Pluckley,PLC,TN27 0RT
+Plumley,PLM,WA16 9RU
+Plumpton,PMP,BN7 3BW
+Plumstead,PLU,SE18 7EA
+Plymouth,PLY,PL4 6AB
+Pokesdown,POK,BH7 6DL
+Polegate,PLG,BN26 6EH
+Polesworth,PSW,B78 1BX
+Pollokshaws East,PWE,G43 1NE
+Pollokshaws West,PWW,G43 1NE
+Pollokshields East,PLE,G41 2NE
+Pollokshields West,PLW,G41 5HT
+Polmont,PMT,FK2 0UP
+Polsloe Bridge,POL,EX4 8AB
+Ponders End,PON,EN3 4QB
+Pont-y-Pant,PYP,LL25 0DQ
+Pontarddulais,PTD,SA4 1TH
+Pontefract Baghill,PFR,WF8 1RB
+Pontefract Monkhill,PFM,WF8 2NX
+Pontefract Tanshelf,POT,WF8 4QA
+Pontlottyn,PLT,CF81 9QX
+Pontyclun,PYC,CF72 9DS
+Pontypool and New Inn,PPL,NP4 0QX
+Pontypridd,PPD,CF37 1DT
+Poole,POO,BH15 2BQ
+Poppleton,POP,YO26 6PZ
+Port Glasgow,PTG,PA14 5JH
+Port Sunlight,PSL,CH62 4XB
+Port Talbot Parkway,PTA,SA13 1UR
+Portchester,PTC,PO16 8BJ
+Porth,POR,CF39 0ES
+Porthmadog,PTM,LL49 9HT
+Portlethen,PLN,AB12 4JS
+Portslade,PLD,BN3 5SG
+Portsmouth & Southsea,PMS,PO1 1EQ
+Portsmouth Arms,PMA,EX37 9NB
+Portsmouth Harbour,PMH,PO1 3EB
+Possilpark & Parkhouse,PPK,G22 6LN
+Potters Bar,PBR,EN6 1AJ
+Poulton-Le-Fylde,PFY,FY6 7AA
+Poynton,PYT,SK12 1HB
+Prees,PRS,SY13 2DW
+Prescot,PSC,L34 5SN
+Prestatyn,PRT,LL19 7ER
+Prestbury,PRB,SK10 4HT
+Preston,PRE,PR1 8AP
+Preston Park,PRP,BN1 6SG
+Prestonpans,PST,EH33 1NG
+Prestwick,PTW,KA9 1AQ
+Prestwick Internat'nl Airport,PRA,KA9 2RZ
+Priesthill & Darnley,PTL,G53 7US
+Princes Risborough,PRR,HP27 9DN
+Prittlewell,PRL,SS2 5BT
+Prudhoe,PRU,NE42 6NR
+Pulborough,PUL,RH20 1AH
+Purfleet,PFL,RM16 1PL
+Purley,PUR,CR8 2UD
+Purley Oaks,PUO,CR2 0ND
+Putney,PUT,SW15 1RT
+Pwllheli,PWL,LL53 5HG
+Pyle,PYL,CF33 6AR
+Quaker's Yard,QYD,CF46 5NJ
+Queen's Park (Glasgow),QPK,G42 8PQ
+Queen's Park (Gt London),QPW,NW6 6NL
+Queen's Road Peckham,QRP,SE15 2JR
+Queenborough,QBR,ME11 5DB
+Queenstown Road (Battersea),QRB,SW8 4LP
+Quintrel Downs,QUI,TR8 4LJ
+Radcliffe (Nottinghamshire),RDF,NG12 2GS
+Radlett,RDT,WD7 7AP
+Radley,RAD,OX14 3AB
+Radyr,RDR,CF4 8AA
+Rainford,RNF,WA11 8SJ
+Rainham (Essex),RNM,RM13 9HY
+Rainham (Kent),RAI,ME8 7SF
+Rainhill,RNH,L35 5SN
+Ramsgate,RAM,CT11 7RE
+Ramsgreave & Wilpshire,RGW,BB1 9BP
+Rannoch For Kinloch Rannoch,RAN,PH17 2QA
+Rauceby,RAU,NG34 8PP
+Ravenglass,RAV,CA18 1SW
+Ravensbourne,RVB,BR3 5HE
+Ravensthorpe,RVN,WF12 9ED
+Rawcliffe,RWC,DN14 8NQ
+Rayleigh,RLG,SS6 7HJ
+Raynes Park,RAY,SW20 0JY
+Reading,RDG,RG1 1LZ
+Reading West,RDW,RG1 7PY
+Rectory Road,REC,N16 7SJ
+Redbridge,RDB,SO15 0NB
+Redcar Central,RCC,TS10 1RD
+Redcar East,RCE,TS10 3LT
+Reddish North,RDN,SK5 6RS
+Reddish South,RDS,SK5 6TU
+Redditch,RDC,B97 4RB
+Redhill,RDH,RH1 1RB
+Redland,RDA,BS6 6QP
+Redruth,RED,TR15 2AB
+Reedham (Greater London),RHM,CR8 4DJ
+Reedham (Norfolk),REE,NR13 3JF
+Reigate,REI,RH2 0BD
+Renton,RTN,G82 4ND
+Retford,RET,DN22 7DE
+Rhiwbina,RHI,CF14 6EP
+Rhoose (Cardiff Int Airpt),RIA,CF62 3HB
+Rhosneigr,RHO,LL64 5QZ
+Rhyl,RHL,LL18 1AT
+Rhymney,RHY,NP2 5LW
+Ribblehead,RHD,LA6 3AS
+Rice Lane,RIL,L9 3BY
+Richmond,RMD,TW9 2NA
+Rickmansworth,RIC,WD3 1QY
+Riddlesdown,RDD,CR8 1HN
+Ridgmont,RID,MK43 0XP
+Riding Mill,RDM,NE44 6EP
+Risca and Pontymister,RCA,NP11 6BB
+Rishton,RIS,BB1 4EY
+Robertsbridge,RBR,TN32 5DJ
+Roby,ROB,L36 4HU
+Rochdale,RCD,OL11 1DR
+Roche,ROC,PL26 8LG
+Rochester,RTR,ME1 1HQ
+Rochford,RFD,SS4 1AU
+Rock Ferry,RFY,CH42 2AT
+Rogart,ROG,IV28 3XL
+Rogerstone,ROR,NP10 9LG
+Rolleston,ROL,NG25 0SG
+Roman Bridge,RMB,LL25 0JE
+Romford,RMF,RM1 1SX
+Romiley,RML,SK6 4BN
+Romsey,ROM,SO51 8DU
+Roose,ROO,LA13 9SJ
+Rose Grove,RSG,BB12 6EH
+Rose Hill (Marple),RSH,SK6 6EE
+Rosyth,ROS,KY11 2JF
+Rotherham Central,RMC,S60 1QH
+Rotherhithe,ROE,SE16 4LF
+Roughton Road,RNR,NR27 9LN
+Rowland's Castle,RLN,PO9 6BP
+Rowley Regis,ROW,B65 0LJ
+Roy Bridge,RYB,PH31 4AH
+Roydon,RYN,CM19 5EH
+Royston,RYS,SG8 5AH
+Ruabon,RUA,LL14 6DL
+Rufford,RUF,L40 1TB
+Rugby,RUG,CV21 3LA
+Rugeley Town,RGT,WS15 1BL
+Rugeley Trent Valley,RGL,WS15 3HA
+Runcorn,RUN,WA7 5UB
+Runcorn East,RUE,WA7 6EP
+Ruskington,RKT,NG34 9ED
+Ruswarp,RUS,YO21 1NJ
+Rutherglen,RUT,G73 1DB
+Ryde Esplanade,RYD,PO33 2HE
+Ryde Pier Head,RYP,PO33 2HF
+Ryde St.John's Road,RYR,PO33 2BA
+Ryder Brow,RRB,M18 7EP
+Rye,RYE,TN31 7AB
+Rye House,RYH,EN11 0EG
+Salford,SFD,M3 5ET
+Salford Crescent,SLD,M5 4BR
+Salfords,SAF,RH1 5DE
+Salhouse,SAH,NR13 6NZ
+Salisbury,SAL,SP2 7RS
+Saltaire,SAE,BD18 3LQ
+Saltash,STS,PL12 4EB
+Saltburn,SLB,TS12 1AQ
+Saltcoats,SLT,KA15 1AA
+Saltmarshe,SAM,DN14 7TW
+Salwick,SLW,PR4 0YH
+Sampford Courtenay,SMC,-
+Sandal And Agbrigg,SNA,WF2 6AB
+Sandbach,SDB,CW11 3JG
+Sanderstead,SNR,CR2 0PL
+Sandhills,SDL,L5 3TX
+Sandhurst,SND,GU47 4QO
+Sandling,SDG,CT21 4HH
+Sandown,SAN,PO36 9BN
+Sandplace,SDP,PL13 1PJ
+Sandwell & Dudley,SAD,B70 7JD
+Sandwich,SDW,CT13 9JR
+Sandy,SDY,SG19 1AW
+Sankey For Penketh,SNK,WA5 1RQ
+Sanquhar,SQH,DG4 6DQ
+Sarn,SRR,CF32 9RL
+Saundersfoot,SDF,SA69 9BG
+Saunderton,SDR,HP14 4LJ
+Sawbridgeworth,SAW,CM21 9JZ
+Saxilby,SXY,LN1 2NS
+Saxmundham,SAX,IP17 1BW
+Scarborough,SCA,YO11 1TN
+Scotscalder,SCT,KW12 6YH
+Scotstounhill,SCH,G13 1QG
+Scunthorpe,SCU,DN15 6PY
+Sea Mills,SML,BS9 1SU
+Seaford,SEF,BN25 2AR
+Seaforth & Litherland,SFL,L21 3TX
+Seaham,SEA,SR7 0XX
+Seamer,SEM,YO12 4LT
+Seascale,SSC,CA20 1QL
+Seaton Carew,SEC,TS25 1DW
+Seer Green,SRG,HP9 2UT
+Selby,SBY,YO8 0NW
+Selhurst,SRS,SE25 5QB
+Sellafield,SEL,CA20 1RG
+Selling,SEG,ME13 9PW
+Selly Oak,SLY,B29 6DW
+Settle,SET,BD24 9AA
+Seven Kings,SVK,IG3 8RE
+Seven Sisters,SVS,N15 5LA
+Sevenoaks,SEV,TN13 1DP
+Severn Beach,SVB,BS35 4PQ
+Severn Tunnel Junction,STJ,NP26 3SP
+Shadwell,SDE,E1 2QF
+Shalford,SFR,GU4 8LE
+Shanklin,SHN,PO37 7AR
+Shawford,SHW,SO21 2AA
+Shawlands,SHL,G41 3RG
+Sheerness-On-Sea,SSS,ME12 1RJ
+Sheffield,SHF,S1 2BP
+Shelford,SED,CB22 5LR
+Shenfield,SNF,CM15 8JD
+Shenstone,SEN,WS14 0NW
+Shepherd's Well,SPH,CT15 7PE
+Shepherds Bush,SPB,W12 8LB
+Shepley,SPY,HD8 8DU
+Shepperton,SHP,TW17 8AN
+Shepreth,STH,SG8 6JP
+Sherborne,SHE,DT9 3NB
+Sherburn-In-Elmet,SIE,LS25 6DY
+Sheringham,SHM,NR26 8RA
+Shettleston,SLS,G32 0PF
+Shieldmuir,SDM,ML2 7TF
+Shifnal,SFN,TF11 9QB
+Shildon,SHD,DL4 1LX
+Shiplake,SHI,RG9 3NY
+Shipley,SHY,BD18 2JL
+Shippea Hill,SPP,CB7 4SR
+Shipton,SIP,OX7 5FJ
+Shirebrook (Derbys),SHB,NG20 8SX
+Shirehampton,SHH,BS11 9XA
+Shireoaks,SRO,S81 8LW
+Shirley,SRL,B90 2NE
+Shoeburyness,SRY,SS3 9AW
+Sholing,SHO,SO19 8JY
+Shoreditch High Street,SDC,E1 6GJ
+Shoreham (Kent),SEH,TN14 7RT
+Shoreham-By-Sea,SSE,BN43 5WX
+Shortlands,SRT,BR2 0JA
+Shotton,SHT,CH5 1BX
+Shotts,SHS,ML7 5DX
+Shrewsbury,SHR,SY1 2DQ
+Sidcup,SID,DA15 7AW
+Sileby,SIL,LE12 7RN
+Silecroft,SIC,LA18 5LP
+Silkstone Common,SLK,S75 4RS
+Silver Street,SLV,N18 2UE
+Silverdale,SVR,LA5 0SW
+Singer,SIN,G81 2JQ
+Sittingbourne,SIT,ME10 3ED
+Skegness,SKG,PE25 3QL
+Skewen,SKE,SA10 6HF
+Skipton,SKI,BD23 1RT
+Slade Green,SGR,DA8 2NX
+Slaithwaite,SWT,HD7 5EB
+Slateford,SLA,EH14 1BX
+Sleaford,SLR,NG34 7RG
+Sleights,SLH,YO22 5AA
+Slough,SLO,SL1 1XW
+Small Heath,SMA,B10 0DP
+Smallbrook Junction,SAB,PO33 1AZ
+Smethwick Galton Bridge,SGB,B66 1HU
+Smethwick Rolfe Street,SMR,B68 2AF
+Smithy Bridge,SMB,OL15 0DZ
+Snaith,SNI,DN14 9HX
+Snodland,SDA,ME6 5AN
+Snowdown,SWO,CT15 4JH
+Sole Street,SOR,DA13 0XY
+Solihull,SOL,B91 1LE
+Somerleyton,SYT,NR32 5QN
+South Acton,SAT,W3 8TG
+South Bank,SBK,TS6 6AZ
+South Bermondsey,SBM,SE16 3JB
+South Croydon,SCY,CR2 7PA
+South Elmsall,SES,WF9 2HP
+South Greenford,SGN,UB6 2WE
+South Gyle,SGL,EH12 9EU
+South Hampstead,SOH,NW8 0DJ
+South Kenton,SOK,HA9 8RB
+South Merton,SMO,SW20 9JT
+South Milford,SOM,LS25 6AA
+South Ruislip,SRU,HA4 6TP
+South Tottenham,STO,N15 6UJ
+South Wigston,SWS,LE18 4XU
+Southall,STL,UB2 4AA
+Southampton Airport (Parkway),SOA,SO18 2HW
+Southampton Central,SOU,SO15 1AL
+Southbourne,SOB,PO10 8LE
+Southbury,SBU,EN3 4HW
+Southease,SEE,BN8 6JS
+Southend Airport,SIA,SS4 1JE
+Southend Central,SOC,SS1 1AB
+Southend East,SOE,SS1 2UP
+Southend Victoria,SOV,SS2 6AZ
+Southminster,SMN,CM0 7EN
+Southport,SOP,PR8 1BE
+Southwick,SWK,BN42 4AE
+Sowerby Bridge,SOW,HX6 3LB
+Spalding,SPA,PE11 1EA
+Spean Bridge,SBR,PH34 4EP
+Spital,SPI,CH62 2AD
+Spondon,SPO,DE21 7RX
+Spooner Row,SPN,NR18 9AH
+Spring Road,SRI,B11 3DP
+Springburn,SPR,G21 1SB
+Springfield,SPF,KY15 5QY
+Squires Gate,SQU,FY8 2SL
+St.Albans Abbey,SAA,AL1 2DN
+St.Albans City,SAC,AL1 5HE
+St.Andrew's Road,SAR,BS11 9HS
+St.Annes-On-The-Sea,SAS,FY8 2JE
+St.Austell,SAU,PL25 4LA
+St.Bees,SBS,CA27 0BZ
+St.Budeaux Ferry Road,SBF,PL5 1JJ
+St.Budeaux Victoria Road,SBV,PL5 1JJ
+St.Columb Road,SCR,TR9 6QY
+St.Denys,SDN,SO17 2EZ
+St.Erth,SER,TR27 6JW
+St.Germans,SGM,PL12 5LS
+St.Helens Central,SNH,WA10 1DQ
+St.Helens Junction,SHJ,WA9 3LA
+St.Helier,SIH,SM4 5NR
+St.Ives,SIV,TR26 2BP
+St.James' Park,SJP,EX4 6QB
+St.James' Street,SJS,E17 7PJ
+St.John's,SAJ,SE8 4EW
+St.Keyne,SKN,PL14 4SE
+St.Leonards Warrior Square,SLQ,TN37 6HL
+St.Margaret's (Greater London),SMG,TW1 2LH
+St.Margaret's (Hertfordshire),SMT,SG12 8DS
+St.Mary Cray,SMY,BR5 2PQ
+St.Michaels,STM,L17 3TX
+St.Neots,SNO,PE19 1QF
+St.Pancras,STP,N1C 4QP
+Stafford,STA,ST16 2AA
+Staines,SNS,TW18 4LY
+Stallingborough,SLL,DN41 8AS
+Stalybridge,SYB,SK15 1RF
+Stamford,SMD,PE9 2WB
+Stamford Hill,SMH,N16 5AG
+Stanford-Le-Hope,SFO,SS17 0JX
+Stanlow & Thornton,SNT,CH2 4NU
+Stansted Airport,SSD,CM24 1QW
+Stansted Mountfitchet,SST,CM24 8BE
+Staplehurst,SPU,TN12 0QR
+Stapleton Road,SRD,BS5 6NE
+Starbeck,SBE,HG2 7JA
+Starcross,SCS,EX6 8PA
+Staveley (Cumbria),SVL,LA8 9NG
+Stechford,SCF,B33 8AJ
+Steeton & Silsden,SON,BD20 6RY
+Stepps,SPS,G33 6AT
+Stevenage,SVG,SG1 1XT
+Stevenston,STV,KA20 3DP
+Stewartby,SWR,MK43 9LY
+Stewarton,STT,KA3 5BD
+Stirling,STG,FK8 1PF
+Stockport,SPT,SK3 9HZ
+Stocksfield,SKS,NE43 7NQ
+Stocksmoor,SSM,HD4 6XN
+Stockton,STK,TS18 2AJ
+Stoke Mandeville,SKM,HP22 5UA
+Stoke Newington,SKW,N16 6YA
+Stoke-On-Trent,SOT,ST4 2AA
+Stone,SNE,ST15 8ER
+Stone Crossing,SCG,DA9 9AR
+Stonebridge Park,SBP,NW10 0RL
+Stonegate,SOG,TN5 7ER
+Stonehaven,STN,AB39 2NE
+Stonehouse,SHU,GL10 2JW
+Stoneleigh,SNL,KT17 2JA
+Stourbridge Junction,SBJ,DY8 1NH
+Stourbridge Town,SBT,DY8 1EX
+Stowmarket,SMK,IP14 1RQ
+Stranraer,STR,DG9 8EJ
+Stratford,SRA,E15 1AZ
+Stratford International,SFA,E15 1AZ
+Stratford-Upon-Avon,SAV,CV37 6PL
+Strathcarron,STC,IV54 8YR
+Strawberry Hill,STW,TW1 4PP
+Streatham,STE,SW16 6HP
+Streatham Common,SRC,SW16 5NT
+Streatham Hill,SRH,SW2 4PA
+Streethouse,SHC,WF7 6UJ
+Strines,SRN,SK22 3AY
+Stromeferry,STF,IV53 8UH
+Strood,SOO,ME2 4DR
+Stroud,STD,GL5 3AP
+Sturry,STU,CT2 0ED
+Styal,SYA,SK9 4JW
+Sudbury,SUY,CO10 6SU
+Sudbury & Harrow Road,SUD,HA0 2LW
+Sudbury Hill Harrow,SDH,HA1 3RJ
+Sugar Loaf,SUG,LD5 4TE
+Summerston,SUM,G23 5AT
+Sunbury,SUU,TW16 6RZ
+Sunderland,SUN,SR1 3HP
+Sundridge Park,SUP,BR1 3TR
+Sunningdale,SNG,SL5 0EL
+Sunnymeads,SNY,SL3 9PX
+Surbiton,SUR,KT6 4PE
+Surrey Quays,SQE,SE16 2UE
+Sutton (Surrey),SUO,SM2 5AD
+Sutton Coldfield,SUT,B73 6AY
+Sutton Common,SUC,SM1 3HY
+Sutton Parkway,SPK,NG17 5LG
+Swale,SWL,ME9 8SS
+Swanley,SAY,BR8 8JD
+Swanscombe,SWM,DA10 0AG
+Swansea,SWA,SA1 1NU
+Swanwick,SNW,SO31 1BA
+Sway,SWY,SO41 6BA
+Swaythling,SWG,SO18 2LB
+Swinderby,SWD,LN6 9HY
+Swindon,SWI,SN1 1DQ
+Swineshead,SWE,PE20 3PU
+Swinton (Greater Manchester),SNN,M27 6BT
+Swinton (South Yorkshire),SWN,S64 8AU
+Sydenham,SYD,SE26 5EU
+Sydenham Hill,SYH,SE21 7ND
+Syon Lane,SYL,TW8 8JG
+Syston,SYS,LE7 2HA
+Tackley,TAC,OX5 3AT
+Tadworth,TAD,KT20 5SP
+Taffs Well,TAF,CF15 7PE
+Tain,TAI,IV19 1JA
+Tal-y-Cafn,TLC,LL28 5RR
+Talsarnau,TAL,LL47 6UA
+Talybont,TLB,LL43 2AQ
+Tame Bridge Parkway,TAB,WS10 0LD
+Tamworth Low Level,TAM,B79 7JT
+Taplow,TAP,SL6 0NU
+Tattenham Corner,TAT,KT18 5PR
+Taunton,TAU,TA1 1QP
+Taynuilt,TAY,PA35 1JH
+Teddington,TED,TW11 0BB
+Tees-Side Airport,TEA,DL2 1NL
+Teignmouth,TGM,TQ14 8PG
+Telford Central,TFC,TF3 4LZ
+Templecombe,TMC,BA8 0JR
+Tenby,TEN,SA70 7JY
+Teynham,TEY,ME9 9DU
+Thames Ditton,THD,KT7 0NU
+Thatcham,THA,RG19 4PP
+Thatto Heath,THH,WA9 5PE
+The Hawthorns,THW,B66 2HB
+The Lakes,TLK,B94 5SE
+Theale,THE,RG7 4AA
+Theobalds Grove,TEO,EN8 7BG
+Thetford,TTF,IP24 1AH
+Thirsk,THI,YO7 4LS
+Thornaby,TBY,TS17 6AW
+Thorne North,TNN,DN8 4HZ
+Thorne South,TNS,DN8 5QN
+Thornford,THO,DT9 6PT
+Thornliebank,THB,G46 7DA
+Thornton Abbey,TNA,DN39 6XF
+Thornton Heath,TTH,CR7 8RX
+Thorntonhall,THT,G74 5AB
+Thorpe Bay,TPB,SS1 3JY
+Thorpe Culvert,TPC,PE24 4NL
+Thorpe-le-Soken,TLS,CO16 0HQ
+Three Bridges,TBD,RH10 1LY
+Three Oaks,TOK,TN35 4NL
+Thurgarton,THU,NG14 7JY
+Thurnscoe,THC,S63 0JR
+Thurso,THS,KW14 7DL
+Thurston,TRS,IP31 3QU
+Tilbury Town,TIL,RM18 7JH
+Tile Hill,THL,CV4 8AS
+Tilehurst,TLH,RG31 6TH
+Tipton,TIP,DY4 8ET
+Tir-Phil,TIR,NP24 6EL
+Tisbury,TIS,SP3 6JT
+Tiverton Parkway,TVP,EX15 2QQ
+Todmorden,TOD,OL14 7AA
+Tolworth,TOL,KT5 9NX
+Ton Pentre,TPN,CF41 7PN
+Tonbridge,TON,TN9 1TT
+Tondu,TDU,CF32 9DR
+Tonfanau,TNF,LL36 8LP
+Tonypandy,TNP,CF40 2TU
+Tooting,TOO,SW17 9JR
+Topsham,TOP,EX3 0DS
+Torquay,TQY,TQ2 6NU
+Torre,TRR,TQ2 5DD
+Totnes,TOT,TQ9 5JR
+Tottenham Hale,TOM,N17 9LR
+Totton,TTN,SO40 3AB
+Town Green,TWN,L39 6RG
+Trafford Park,TRA,M32 1AA
+Trefforest,TRF,CF37 1SL
+Trefforest Estate,TRE,CF38 1SG
+Trehafod,TRH,CF37 2LL
+Treherbert,TRB,CF42 5HU
+Treorchy,TRY,CF42 6UE
+Trimley,TRM,IP10 0TS
+Tring,TRI,HP23 5QR
+Troed-Y-Rhiw,TRD,CF48 4DY
+Troon,TRN,KA10 6JY
+Trowbridge,TRO,BA14 8HW
+Truro,TRU,TR1 3HH
+Tulloch,TUL,PH31 4AR
+Tulse Hill,TUH,SE27 9BW
+Tunbridge Wells,TBW,TN1 1BT
+Turkey Street,TUR,EN3 5TT
+Tutbury & Hatton,TUT,DE65 5DX
+Twickenham,TWI,TW1 3SX
+Twyford,TWY,RG10 9NA
+Ty Croes,TYC,LL63 5HX
+Ty Glas,TGS,CF14 5DL
+Tygwyn,TYG,LL47 6TF
+Tyndrum Lower,TYL,FK20 8RZ
+Tyseley,TYS,B11 2HH
+Tywyn,TYW,LL36 9EY
+Uckfield,UCK,TN22 1HS
+Uddingston,UDD,G71 7LR
+Ulceby,ULC,DN39 6BE
+Ulleskelf,ULL,LS24 9DJ
+Ulverston,ULV,LA12 0DP
+Umberleigh,UMB,EX37 9AB
+University,UNI,B15 2FB
+Uphall,UHA,EH54 5QG
+Upholland,UPL,WN8 9QD
+Upminster,UPM,RM14 2TD
+Upper Halliford,UPH,TW16 7HB
+Upper Holloway,UHL,N19 4DJ
+Upper Tyndrum,UTY,FK20 8RY
+Upper Warlingham,UWL,CR3 0EP
+Upton,UPT,CH43 9RY
+Upwey,UPW,DT3 5RB
+Urmston,URM,M41 5AW
+Uttoxeter,UTT,ST14 8XG
+Valley,VAL,LL65 3EW
+Vauxhall,VXH,SW8 1SS
+Victoria,VIC,SW1V 1JU
+Virginia Water,VIR,GU25 4AA
+Waddon,WDO,CR0 4NA
+Wadhurst,WAD,TN5 6RZ
+Wainfleet,WFL,PE24 2DR
+Wakefield Kirkgate,WKK,WF1 4EL
+Wakefield Westgate,WKF,WF1 1XP
+Walkden,WKD,M28 3DY
+Wallasey Grove Road,WLG,CH45 8JX
+Wallasey Village,WLV,CH45 8PD
+Wallington,WLT,SM6 0DZ
+Wallyford,WAF,EH21 8DZ
+Walmer,WAM,CT14 7RN
+Walsall,WSL,WS2 9JS
+Walsden,WDN,OL14 7ST
+Waltham Cross,WLC,EN8 7LU
+Walthamstow Central,WHC,E17 8AA
+Walthamstow Queens Road,WMW,E17 7QJ
+Walton (Merseyside),WAO,L9 1EY
+Walton-On-Naze,WON,CO14 8DM
+Walton-On-Thames,WAL,KT12 1NR
+Wanborough,WAN,GU3 2ED
+Wandsworth Common,WSW,SW12 8NL
+Wandsworth Road,WWR,SW4 6AD
+Wandsworth Town,WNT,SW18 1SU
+Wanstead Park,WNP,E7 0HX
+Wapping,WPE,E1W 3PA
+Warblington,WBL,PO9 2QD
+Ware,WAR,SG12 9UT
+Wareham,WRM,BH20 4AS
+Wargrave,WGV,RG10 8EU
+Warminster,WMN,BA12 9BP
+Warnham,WNH,RH12 3SR
+Warrington Bank Quay,WBQ,WA1 1LW
+Warrington Central,WAC,WA2 7TT
+Warwick,WRW,CV34 4LA
+Warwick Parkway,WRP,CV35 8RH
+Water Orton,WTO,B46 1NE
+Waterbeach,WBC,CB25 9HT
+Wateringbury,WTR,ME18 5EA
+Waterloo,WAT,SE1 8SW
+Waterloo (East),WAE,SE1 8NH
+Waterloo (Merseyside),WLO,L22 0LY
+Watford High Street,WFH,WD17 2NW
+Watford Junction,WFJ,WD17 1EU
+Watford North,WFN,WD2 4QN
+Watlington,WTG,PE33 0JF
+Watton-At-Stone,WAS,SG14 3SH
+Waun-gron Park,WNG,CF5 2BN
+Wavertree Technology Park,WAV,L13 1EG
+Weeley,WEE,CO16 9DH
+Weeton,WET,LS17 0HL
+Welham Green,WMG,AL9 7HF
+Welling,WLI,DA16 3AU
+Wellingborough,WEL,NN8 1NA
+Wellington,WLN,TF1 1BY
+Welshpool,WLP,SY21 7AZ
+Welwyn Garden City,WGC,AL8 6HA
+Welwyn North,WLW,AL6 0AS
+Wem,WEM,SY4 5AZ
+Wembley Central,WMB,HA9 7AJ
+Wembley Stadium,WCX,HA9 8BQ
+Wemyss Bay,WMS,PA18 6AA
+Wendover,WND,HP22 6BN
+Wennington,WNN,LA2 8PB
+West Allerton,WSA,L18 7HF
+West Brompton,WBP,SW5 9JX
+West Byfleet,WBY,KT14 6DY
+West Calder,WCL,EH55 8BP
+West Croydon,WCY,CR0 2TA
+West Drayton,WDT,UB7 9DY
+West Dulwich,WDU,SE21 8HN
+West Ealing,WEA,W13 0NQ
+West Ham,WEH,E15 3BN
+West Hampstead,WHD,NW6 2LJ
+West Hampstead Thameslink,WHP,NW6 2LJ
+West Horndon,WHR,CM13 3TJ
+West Kilbride,WKB,KA23 9BP
+West Kirby,WKI,CH48 4DZ
+West Malling,WMA,ME19 6HJ
+West Norwood,WNW,SE27 0HS
+West Ruislip,WRU,HA4 7DW
+West Runton,WRN,NR27 9QD
+West St Leonards,WLD,TN38 0NL
+West Sutton,WSU,SM1 2EY
+West Wickham,WWI,BR4 0EH
+West Worthing,WWO,BN11 4SR
+Westbury,WSB,BA13 4HP
+Westcliff,WCF,SS0 7SB
+Westcombe Park,WCB,SE3 7EQ
+Westenhanger,WHA,TN25 6DE
+Wester Hailes,WTA,EH14 3AQ
+Westerfield,WFI,IP6 9AE
+Westerton,WES,G61 1PA
+Westgate-On-Sea,WGA,CT8 8QY
+Westhoughton,WHG,BL5 3LE
+Weston Milton,WNM,BS22 8PF
+Weston-Super-Mare,WSM,BS23 1XY
+Wetheral,WRL,CA4 8JP
+Weybridge,WYB,KT13 8UD
+Weymouth,WEY,DT4 7BN
+Whaley Bridge,WBR,SK23 7AA
+Whalley,WHE,BB7 9SE
+Whatstandwell,WTS,DE4 5HE
+Whifflet,WFF,ML5 4AS
+Whimple,WHM,EX5 2QW
+Whinhill,WNL,PA15 3AH
+Whiston,WHN,L35 3TT
+Whitby,WTB,YO21 1YN
+Whitchurch (Hampshire),WCH,RG28 7ER
+Whitchurch (Salop),WTC,SY13 1RL
+Whitchurch (South Glamorgan),WHT,CF14 1BP
+White Hart Lane,WHL,N17 8HH
+White Notley,WNY,CM8 1RP
+Whitechapel,WCA,??
+Whitecraigs,WCR,G46 6JB
+Whitehaven,WTH,CA28 6AX
+Whitland,WTL,SA34 0AP
+Whitley Bridge,WBD,DN14 0HH
+Whitlock's End,WTE,B90 1PN
+Whitstable,WHI,CT5 1RB
+Whittlesea,WLE,PE7 1UF
+Whittlesford,WLF,CB22 4NL
+Whitton,WTN,TW2 7LG
+Whitwell (Derbys),WWL,S80 4NY
+Whyteleafe,WHY,CR3 0AD
+Whyteleafe South,WHS,CR3 0BD
+Wick,WCK,KW1 4QT
+Wickford,WIC,SS11 7AT
+Wickham Market,WCM,IP13 0PT
+Widdrington,WDD,NE61 5QH
+Widnes,WID,WA8 7TJ
+Widney Manor,WMR,B91 3LB
+Wigan North Western,WGN,WN1 1BJ
+Wigan Wallgate,WGW,WN1 1BB
+Wigton,WGT,CA7 9BA
+Wildmill,WMI,CF31 1RW
+Willesden Junction,WIJ,NW10 4UY
+Williamwood,WLM,G76 7HQ
+Willington,WIL,DE65 6BN
+Wilmcote,WMC,CV37 9UP
+Wilmslow,WML,SK9 1BU
+Wilnecote,WNE,B77 5AL
+Wimbledon,WIM,SW19 7NL
+Wimbledon Chase,WBO,SW20 8JT
+Winchelsea,WSE,TN36 4JX
+Winchester,WIN,SO23 8TJ
+Winchfield,WNF,RG27 8BX
+Winchmore Hill,WIH,N21 3NG
+Windermere,WDM,LA23 1AH
+Windsor & Eton Central,WNC,SL4 1PJ
+Windsor & Eton Riverside,WNR,SL4 1QG
+Winnersh,WNS,RG41 5LU
+Winnersh Triangle,WTI,RG41 5TS
+Winsford,WSF,CW7 3NF
+Wishaw,WSH,ML2 0EX
+Witham,WTM,CM8 2BS
+Witley,WTY,GU8 5TB
+Witton,WTT,B6 7BA
+Wivelsfield,WVF,RH15 0QF
+Wivenhoe,WIV,CO7 9DJ
+Woburn Sands,WOB,MK17 8UD
+Woking,WOK,GU22 7AE
+Wokingham,WKM,RG40 2AP
+Woldingham,WOH,CR3 7LT
+Wolverhampton,WVH,WV1 1LE
+Wolverton,WOL,MK12 5LJ
+Wombwell,WOM,S73 0LU
+Wood End,WDE,B94 5DS
+Wood Street,WST,E17 3LX
+Woodbridge,WDB,IP12 4AU
+Woodgrange Park,WGR,E7 8AF
+Woodhall,WDL,PA14 5PP
+Woodham Ferrers,WDF,??
+Woodhouse,WDH,S13 7RF
+Woodlesford,WDS,LS26 8RA
+Woodley,WLY,SK6 1NX
+Woodmansterne,WME,CR5 3HS
+Woodsmoor,WSR,SK2 7AX
+Wool,WOO,BH20 6BL
+Woolston,WLS,SO19 2DJ
+Woolwich Arsenal,WWA,SE18 6EU
+Woolwich Dockyard,WWD,SE18 5JY
+Wootton Wawen,WWW,B95 6BJ
+Worcester Foregate Street,WOF,WR1 1DB
+Worcester Park,WCP,KT4 7ND
+Worcester Shrub Hill,WOS,WR4 9EJ
+Workington,WKG,CA14 2UZ
+Worksop,WRK,S81 7AG
+Worle,WOR,BS22 6WA
+Worplesdon,WPL,GU22 0RN
+Worstead,WRT,NR28 9RX
+Worthing,WRH,BN11 1UR
+Wrabness,WRB,CO11 2TJ
+Wraysbury,WRY,TW19 5NW
+Wrenbury,WRE,CW5 8EX
+Wressle,WRS,YO8 6ES
+Wrexham Central,WXC,LL11 1SN
+Wrexham General,WRX,LL11 1EL
+Wye,WYE,TN25 5EB
+Wylam,WYM,NE41 8JA
+Wylde Green,WYL,B73 5LA
+Wymondham,WMD,NR18 0JZ
+Wythall,WYT,B47 6BY
+Yalding,YAL,ME18 6HN
+Yardley Wood,YRD,B28 0BY
+Yarm,YRM,TS15 9EH
+Yate,YAE,BS37 5JF
+Yatton,YAT,BS49 4AJ
+Yeoford,YEO,EX17 5JB
+Yeovil Junction,YVJ,BA22 9UU
+Yeovil Pen Mill,YVP,BA21 5DD
+Yetminster,YET,DT9 6LH
+Ynyswen,YNW,CF42 6EG
+Yoker,YOK,G81 1AD
+York,YRK,YO24 1AB
+Yorton,YRT,SY4 3EP
+Ystrad Mynach,YSM,CF82 7BP
+Ystrad Rhondda,YSR,CF41 7SR
