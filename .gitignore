@@ -10,3 +10,5 @@ json
 maps/
 leaflet-0.7.1/
 kartograph.js/
+*.doc
+*.jpeg
