@@ -15,34 +15,7 @@ import math
 import time
 from BeautifulSoup import BeautifulSoup
 
-
-#################### BEGIN USER INTERFACE ######################################
-print '-----------------------------------------------------------------------'
-print 'National Rail Query'
-print '-----------------------------------------------------------------------'
-print 'Options:'
-print '  default starting destination: Cambridge'
-print '  default travel date: 1 month from today'
-print '  default journey: single'
-print '  default time of day: from 5am onwards'
-print 'Assumes user has a young persons rail card'
-print '-----------------------------------------------------------------------'
-start = raw_input('starting station: ')
-print '-----------------------------------------------------------------------'
-print '-----------------------------------------------------------------------'
-date = raw_input('date (DD/MM/YY or d for default): ')
-print '-----------------------------------------------------------------------'
-print '-----------------------------------------------------------------------'
-journey = raw_input('type (s for single or r for return): ')
-print '-----------------------------------------------------------------------'
-if journey=='r':
-	print '-----------------------------------------------------------------------'
-	return_date = raw_input('return date (DD/MM/YY or d for default 3 days: ')
-	print '-----------------------------------------------------------------------'
-######################
-day = date.split('/')[0]
-month = date.split('/')[1]
-year = date.split('/')[2]
+print "Querying National Rail for journeys from "+start+" on "+date
 
 #################### INPUT and OUTPUT FILES ####################################
 stationfile='Station_use_2011-12.csv'
