@@ -13,13 +13,6 @@ import string
 import math
 import numpy as np
 
-#################### BEGIN USER INTERFACE ######################################
-print '-----------------------------------------------------------------------'
-print 'UK Rail Value - Miles per Pound calculator'
-print '-----------------------------------------------------------------------'
-start = raw_input('Starting station (e.g. KGX, CBG, BHM, etc): ')
-print '-----------------------------------------------------------------------'
-date = raw_input('Date of travel (e.g. oct2014): ')
 
  
 file_name='rail_value_'+start+'_'+date+'.txt' 
