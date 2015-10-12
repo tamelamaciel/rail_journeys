@@ -4,6 +4,7 @@ import sys
 import string
 import math
 import numpy as np
+import os.path
 
 #=========CONFIG===============================================================
 # -----------------------------------------------------------------------
@@ -12,11 +13,11 @@ import numpy as np
 #   default time of day: from 5am onwards
 # -----------------------------------------------------------------------
 # starting station, full name or three-letter code
-start = 'LEI' 
+START = 'LEI' 
 # date DD/MM/YY
-date = '09/11/15'
+DATE = '09/11/15'
 # type (s for single or r for return):
-journey = 's'
+JOURNEY = 's'
 #===============================================================================
 
 day = date.split('/')[0]
@@ -25,11 +26,12 @@ year = date.split('/')[2]
 
 def get_prices_from_national_rail(start,day,month,year,journey):
     """Gets ticket prices from national rail website for all UK journeys starting at *start*"""
-    pass
+    return price_data
 
 def calc_distances_to_stations(start):
     """Calculates distance as the crow flies from starting point to all other station postcodes in statute miles."""
-    pass
+    
+    return dist_data
 
 def calc_value_ratio(start):
 	"""Calculates the best value journeys from *start* using prices and distances to each UK station"""
@@ -47,9 +49,11 @@ def main():
 	fileout.close()
 
 	#read in distance data:
-	#TODO: if dist_data in namespace, use that; otherwise load data from file.
-	dist_data=np.genfromtxt('distances_from_'+start+'.txt',delimiter=', ',dtype=[('name', 'S30'), ('code', 'S4'), ('pc', 'S9'), ('lat', '<f8'), ('long', '<f8'), ('dist', '<f8')])
-
+	#don't rerun distances function if data file already exists
+	if os.path.exists('distances_from_'+start+'.txt'):
+		dist_data=np.genfromtxt('distances_from_'+start+'.txt',delimiter=', ',dtype=[('name', 'S30'), ('code', 'S4'), ('pc', 'S9'), ('lat', '<f8'), ('long', '<f8'), ('dist', '<f8')])
+	else:
+		dist_data=calc_distances_to_stations(START)
 	#read in price data:
 	rail_value=[]
 	file=open('prices_from_'+start+'.txt','r')
