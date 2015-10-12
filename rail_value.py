@@ -1,6 +1,9 @@
 """Script to find the best value train tickets (miles per pence) in the UK"""
 
 import sys
+import string
+import math
+import numpy as np
 
 #=========CONFIG===============================================================
 # -----------------------------------------------------------------------
@@ -34,6 +37,12 @@ def calc_value_ratio(start):
 
 def main():
     """Main entry point for the script."""
+
+    # initialize output file for rail value data
+	file_name='rail_value_'+start+'_'+date+'.txt' 
+	fileout = open(file_name,'w')
+	fileout.write('station_name, station_code, station_postcode, lat, long, dist_miles, price, miles_per_pound\n')
+	fileout.close()
 
 	#read in distance data:
 	#TODO: if dist_data in namespace, use that; otherwise load data from file.
