@@ -20,9 +20,9 @@ DATE = '09/11/15'
 JOURNEY = 's'
 #===============================================================================
 
-day = date.split('/')[0]
-month = date.split('/')[1]
-year = date.split('/')[2]
+DAY = date.split('/')[0]
+MONTH = date.split('/')[1]
+YEAR = date.split('/')[2]
 
 def get_prices_from_national_rail(start,day,month,year,journey):
     """Gets ticket prices from national rail website for all UK journeys starting at *start*"""
@@ -42,6 +42,7 @@ def main():
 	Works out best value for money using 
 	prices from 'prices_from_<start>' and distances from 'distances_frm_<start>' 
 	and produces file 'rail_fun_<start>.csv'"""
+
     # initialize output file for rail value data
 	file_name='rail_value_'+start+'_'+date+'.csv' 
 	fileout = open(file_name,'w')
@@ -50,27 +51,30 @@ def main():
 
 	#read in distance data:
 	#don't rerun distances function if data file already exists
-	if os.path.exists('distances_from_'+start+'.txt'):
-		dist_data=np.genfromtxt('distances_from_'+start+'.txt',delimiter=', ',dtype=[('name', 'S30'), ('code', 'S4'), ('pc', 'S9'), ('lat', '<f8'), ('long', '<f8'), ('dist', '<f8')])
+	if os.path.exists('distances_from_'+start+'.csv'):
+		dist_data=np.genfromtxt('distances_from_'+start+'.csv',delimiter=',',dtype=[('name', 'S30'), ('code', 'S4'), ('pc', 'S9'), ('lat', '<f8'), ('long', '<f8'), ('dist', '<f8')])
 	else:
 		dist_data=calc_distances_to_stations(START)
-	#read in price data:
-	rail_value=[]
-	file=open('prices_from_'+start+'.txt','r')
 
-	while 1:
+	#read in price data:
+	if os.path.exists('prices_from_'+start+'_'+date+'.csv'):
+		#file=open('prices_from_'+start+'_'+date_'.csv','r')
+		price_data=np.genfromtxt('prices_from_'+start+'_'+date+'.csv',delimiter=',')
+
+	else:
+		price_data=get_prices_from_national_rail(START,DAY,MONTH,YEAR,JOURNEY)
+
+	rail_value=[]
+
+	for line in price_data:
 		line=file.readline()
 		if '#' in line:
 			continue
-		if not line: break
-
 		items=string.split(line,',')
 		
 		station_name=items[0]
 		station_code=items[1]
 		price=items[2].strip('\n')
-
-		#get distance data:
 
 		#index of postcode in dist_data
 		i=np.where(dist_data['code']==station_code)[0][0]
