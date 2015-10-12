@@ -36,12 +36,14 @@ def calc_value_ratio(start):
 	pass
 
 def main():
-    """Main entry point for the script."""
-
+	"""Main entry point for the script. 
+	Works out best value for money using 
+	prices from 'prices_from_<start>' and distances from 'distances_frm_<start>' 
+	and produces file 'rail_fun_<start>.csv'"""
     # initialize output file for rail value data
-	file_name='rail_value_'+start+'_'+date+'.txt' 
+	file_name='rail_value_'+start+'_'+date+'.csv' 
 	fileout = open(file_name,'w')
-	fileout.write('station_name, station_code, station_postcode, lat, long, dist_miles, price, miles_per_pound\n')
+	fileout.write('station_name,station_code,station_postcode,lat,long,dist_miles,price,miles_per_pound\n')
 	fileout.close()
 
 	#read in distance data:
