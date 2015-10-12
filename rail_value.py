@@ -33,36 +33,13 @@ def calc_distances_to_stations(start):
     
     return dist_data
 
-def calc_value_ratio(start):
+def calc_value_ratio(dist_data,price_data):
 	"""Calculates the best value journeys from *start* using prices and distances to each UK station"""
-	pass
-
-def main():
-	"""Main entry point for the script. 
-	Works out best value for money using 
-	prices from 'prices_from_<start>' and distances from 'distances_frm_<start>' 
-	and produces file 'rail_fun_<start>.csv'"""
-
     # initialize output file for rail value data
 	file_name='rail_value_'+start+'_'+date+'.csv' 
 	fileout = open(file_name,'w')
 	fileout.write('station_name,station_code,station_postcode,lat,long,dist_miles,price,miles_per_pound\n')
 	fileout.close()
-
-	#read in distance data:
-	#don't rerun distances function if data file already exists
-	if os.path.exists('distances_from_'+start+'.csv'):
-		dist_data=np.genfromtxt('distances_from_'+start+'.csv',delimiter=',',dtype=[('name', 'S30'), ('code', 'S4'), ('pc', 'S9'), ('lat', '<f8'), ('long', '<f8'), ('dist', '<f8')])
-	else:
-		dist_data=calc_distances_to_stations(START)
-
-	#read in price data:
-	if os.path.exists('prices_from_'+start+'_'+date+'.csv'):
-		#file=open('prices_from_'+start+'_'+date_'.csv','r')
-		price_data=np.genfromtxt('prices_from_'+start+'_'+date+'.csv',delimiter=',')
-
-	else:
-		price_data=get_prices_from_national_rail(START,DAY,MONTH,YEAR,JOURNEY)
 
 	rail_value=[]
 
@@ -98,6 +75,32 @@ def main():
 		fileout = open(file_name,'a')
 		fileout.write(nextline)
 		fileout.close()	
+
+		return rail_value
+
+def main():
+	"""Main entry point for the script. 
+	Works out best value for money using 
+	prices from 'prices_from_<start>' and distances from 'distances_frm_<start>' 
+	and produces file 'rail_fun_<start>.csv'"""
+
+	#read in distance data:
+	#don't rerun distances function if data file already exists
+	if os.path.exists('distances_from_'+start+'.csv'):
+		dist_data=np.genfromtxt('distances_from_'+start+'.csv',delimiter=',',dtype=[('name', 'S30'), ('code', 'S4'), ('pc', 'S9'), ('lat', '<f8'), ('long', '<f8'), ('dist', '<f8')])
+	else:
+		dist_data=calc_distances_to_stations(START)
+
+	#read in price data:
+	if os.path.exists('prices_from_'+start+'_'+date+'.csv'):
+		#file=open('prices_from_'+start+'_'+date_'.csv','r')
+		price_data=np.genfromtxt('prices_from_'+start+'_'+date+'.csv',delimiter=',')
+
+	else:
+		price_data=get_prices_from_national_rail(START,DAY,MONTH,YEAR,JOURNEY)
+
+
+	rail_value = calc_value_ratio(dist_data,price_data)
 
 	#sort rail_value array according to value_ratio
 	from operator import itemgetter
