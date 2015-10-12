@@ -13,16 +13,14 @@ import os.path
 #   default time of day: from 5am onwards
 # -----------------------------------------------------------------------
 # starting station, full name or three-letter code
-START = 'LEI' 
+start = 'LEI' 
 # date DD/MM/YY
-DATE = '09/11/15'
-# type (s for single or r for return):
-JOURNEY = 's'
+date = '09/11/15'
 #===============================================================================
 
-DAY = date.split('/')[0]
-MONTH = date.split('/')[1]
-YEAR = date.split('/')[2]
+day = date.split('/')[0]
+month = date.split('/')[1]
+year = date.split('/')[2]
 
 def get_prices_from_national_rail(start,day,month,year,journey):
     """Gets ticket prices from national rail website for all UK journeys starting at *start*"""
@@ -80,16 +78,14 @@ def calc_value_ratio(dist_data,price_data):
 
 def main():
 	"""Main entry point for the script. 
-	Works out best value for money using 
-	prices from 'prices_from_<start>' and distances from 'distances_frm_<start>' 
-	and produces file 'rail_fun_<start>.csv'"""
+ 	Produces file 'rail_fun_<start>.csv'"""
 
 	#read in distance data:
 	#don't rerun distances function if data file already exists
 	if os.path.exists('distances_from_'+start+'.csv'):
 		dist_data=np.genfromtxt('distances_from_'+start+'.csv',delimiter=',',dtype=[('name', 'S30'), ('code', 'S4'), ('pc', 'S9'), ('lat', '<f8'), ('long', '<f8'), ('dist', '<f8')])
 	else:
-		dist_data=calc_distances_to_stations(START)
+		dist_data=calc_distances_to_stations(start)
 
 	#read in price data:
 	if os.path.exists('prices_from_'+start+'_'+date+'.csv'):
@@ -97,7 +93,7 @@ def main():
 		price_data=np.genfromtxt('prices_from_'+start+'_'+date+'.csv',delimiter=',')
 
 	else:
-		price_data=get_prices_from_national_rail(START,DAY,MONTH,YEAR,JOURNEY)
+		price_data=get_prices_from_national_rail(start,day,month,year)
 
 
 	rail_value = calc_value_ratio(dist_data,price_data)
