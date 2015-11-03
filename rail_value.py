@@ -69,7 +69,7 @@ def get_prices_from_national_rail(start,date,hour):
 		time.sleep(2) #wait 2 seconds
 
 	# write to file
-	file_name='prices_from_'+start+date+'.csv'
+	file_name='prices_from_'+start+'_'+date+'_'+hour+'.csv'
 	dist_data.to_csv(file_name, sep=',')
 
 	return price_data
@@ -120,7 +120,7 @@ def calc_value_ratio(dist_data,price_data):
 	rail_value['value_ratio'] = rail_value.apply(lambda x : x['distance_miles']/x['price'] if x['distance_miles'] <700. else float('NaN'), axis=1)
 
 	#write to file
-	file_name='rail_value_'+start+'_'+date+'.csv' 
+	file_name='rail_value_'+start+'_'+date+'_'+time+'.csv' 
 	rail_value.to_csv(file_name, sep=',')
 
 	return rail_value
@@ -142,8 +142,8 @@ def main():
 		dist_data=calc_distances_to_stations(start,town)
 
 	#read in price data:
-	if os.path.exists('prices_from_'+start+'_'+date+'.csv'):
-		price_data=pd.read_csv('prices_from_'+start+'_'+date+'.csv')
+	if os.path.exists('prices_from_'+start+'_'+date+'_'+hour+'.csv'):
+		price_data=pd.read_csv('prices_from_'+start+'_'+date+'_'+hour+'.csv')
 		#drop unncessary station code column. data will be merged using station name as a key
 		price_data = price_data.drop('station_code', 1)
 		print 'price data already exists for this station and date. skipping web query...'
