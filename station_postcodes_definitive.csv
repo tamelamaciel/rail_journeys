@@ -1,4 +1,4 @@
-#Station_name station_code postcode (pulled directly from national rail webpage)
+station_name,station_code,postcode
 Abbey Wood,ABW,SE2 9RH
 Aber,ABE,CF83 1AQ
 Abercynon,ACY,CF45 4SE
