@@ -17,8 +17,10 @@ import os.path
 start = 'LEI' 
 town = 'leicester, uk'
 # date DDMMYY
-date = '091115'
+date = '090116'
 hour = '0500'
+append = True
+startat = 'CLE'
 #===============================================================================
 
 
@@ -30,7 +32,7 @@ def get_prices_from_national_rail(start,date,hour):
 
 	print "Querying National Rail for journeys from "+start+" on "+date
 
-	#read in uk stations file and setup price_data, initializing price column with NaNs
+	#read in uk stations file and setup price_data array, initializing price column with NaNs
 	stations=pd.read_csv('Station_use_2011-12.csv')
 
 	station_codes=pd.Series(stations['Origin TLC'],name='station_code')
@@ -41,36 +43,51 @@ def get_prices_from_national_rail(start,date,hour):
 	price_data['price'] = price_data.apply(lambda x: float('NaN'))
 
 
-	################################################
-
 	########################################################
+	# a clunky way to get the index of the station to start at, if append = True
+	# use index, idx, to slice price_data for all stations after 'startat'
+	if append == True: 
+		idx = price_data[price_data['station_code'] == startat].index.tolist()[0]
+		price_data = price_data.iloc[idx:]
+
+	################################################
+	# initialize output file
+	if append == False:
+		price_file = open('prices_from_'+start+'_'+date+'_'+hour+'.csv','w')
+		price_file.write('station_name,station_code,price\n')
+		price_file.close()
+
+
+
 	#Then query national rail
-	for i, station in price_data.iterrows():
-		code=station['station_code']
-		url = 'http://ojp.nationalrail.co.uk/service/timesandfares/'+start+'/'+code+'/'+date+'/'+hour+'/dep'
-		response = requests.get(url)
-		soup = BeautifulSoup(response.text)
-		txtsoup=str(soup).split('\n')
+	with open('prices_from_'+start+'_'+date+'_'+hour+'.csv', 'a') as price_file:
+		for i, station in price_data.iterrows():
+			code=station['station_code']
+			url = 'http://ojp.nationalrail.co.uk/service/timesandfares/'+start+'/'+code+'/'+date+'/'+hour+'/dep'
+			response = requests.get(url)
+			soup = BeautifulSoup(response.text)
+			txtsoup=str(soup).split('\n')
 
-		#find item txtsoup that matches 'buyCheapest button'
+			#find item txtsoup that matches 'buyCheapest button'
 
-		matches = [s for s in txtsoup if "Buy cheapest for " in s] #list of matches
-		print 'matches list: '
-		print matches
-		try:
-			cheapest=matches[0].split('&#163;')[1].strip('\r') #string of pound value. '&#163;' is the pound sign
-		except IndexError:
-			cheapest=float('NaN')
+			matches = [s for s in txtsoup if "Buy cheapest for " in s] #list of matches
+			# print 'matches list: '
+			# print matches
+			try:
+				cheapest=matches[0].split('&#163;')[1].strip('\r') #string of pound value. '&#163;' is the pound sign
+			except IndexError:
+				cheapest=float('NaN')
 
-		print 'The cheapest fare between '+start+' and '+code+' is: '+str(cheapest)
-		#write to outfile
-		price_data.ix[i,'price'] = cheapest
-		print price_data.ix[i,]
-		time.sleep(2) #wait 2 seconds
+			print 'The cheapest fare between '+start+' and '+code+' is: '+str(cheapest)
 
-	# write to file
-	file_name='prices_from_'+start+'_'+date+'_'+hour+'.csv'
-	dist_data.to_csv(file_name, sep=',')
+			price_data.ix[i,'price'] = cheapest
+			#print price_data.ix[i,]
+
+			# write to file
+			line = pd.DataFrame(price_data.ix[i]).T #transpose from series column to row
+			line.to_csv(price_file,sep=',',header=False,na_rep='NaN',index=False)
+			time.sleep(2) #wait 2 seconds
+
 
 	return price_data
 
@@ -112,7 +129,6 @@ def calc_distances_to_stations(start,town):
 def calc_value_ratio(dist_data,price_data):
 	"""Calculates the best value journeys from *start* using prices and distances to each UK station"""
 	
-
 	#combine distance and price data into one data frame
 	rail_value=pd.merge(dist_data, price_data, on='station_name', how='left')
 
@@ -120,7 +136,7 @@ def calc_value_ratio(dist_data,price_data):
 	rail_value['value_ratio'] = rail_value.apply(lambda x : x['distance_miles']/x['price'] if x['distance_miles'] <700. else float('NaN'), axis=1)
 
 	#write to file
-	file_name='rail_value_'+start+'_'+date+'_'+time+'.csv' 
+	file_name='rail_value_'+start+'_'+date+'_'+hour+'.csv' 
 	rail_value.to_csv(file_name, sep=',')
 
 	return rail_value
@@ -142,18 +158,19 @@ def main():
 		dist_data=calc_distances_to_stations(start,town)
 
 	#read in price data:
-	if os.path.exists('prices_from_'+start+'_'+date+'_'+hour+'.csv'):
-		price_data=pd.read_csv('prices_from_'+start+'_'+date+'_'+hour+'.csv')
-		#drop unncessary station code column. data will be merged using station name as a key
-		price_data = price_data.drop('station_code', 1)
-		print 'price data already exists for this station and date. skipping web query...'
-	else:
-		price_data=get_prices_from_national_rail(start,date,hour)
+	price_data=get_prices_from_national_rail(start,date,hour)
+	# if os.path.exists('prices_from_'+start+'_'+date+'_'+hour+'.csv'):
+	# 	price_data=pd.read_csv('prices_from_'+start+'_'+date+'_'+hour+'.csv')
+	# 	#drop unncessary station code column. data will be merged using station name as a key
+	# 	price_data = price_data.drop('station_code', 1)
+	# 	print 'price data already exists for this station and date. skipping web query...'
+	# else:
+	# 	price_data=get_prices_from_national_rail(start,date,hour)
 	
 
 
 	rail_value = calc_value_ratio(dist_data,price_data)
-
+	#ipdb.set_trace()
 	#get journey with maximum value_ratio
 	best_value=rail_value.loc[rail_value['value_ratio'].idxmax()]
 
