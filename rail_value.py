@@ -20,7 +20,7 @@ town = 'leicester, uk'
 date = '090116'
 hour = '0500'
 append = True
-startat = 'CLE'
+startat = 'GRC'
 #===============================================================================
 
 
@@ -131,7 +131,8 @@ def calc_value_ratio(dist_data,price_data):
 	
 	#combine distance and price data into one data frame
 	rail_value=pd.merge(dist_data, price_data, on='station_name', how='left')
-
+	#drop extra index column
+	rail_value = rail_value.drop('Unnamed: 0', 1)
 	#add a new column, value_ratio = dist/price if the distance from start is < 700 miles (sanity check for UK)
 	rail_value['value_ratio'] = rail_value.apply(lambda x : x['distance_miles']/x['price'] if x['distance_miles'] <700. else float('NaN'), axis=1)
 
@@ -158,14 +159,14 @@ def main():
 		dist_data=calc_distances_to_stations(start,town)
 
 	#read in price data:
-	price_data=get_prices_from_national_rail(start,date,hour)
-	# if os.path.exists('prices_from_'+start+'_'+date+'_'+hour+'.csv'):
-	# 	price_data=pd.read_csv('prices_from_'+start+'_'+date+'_'+hour+'.csv')
-	# 	#drop unncessary station code column. data will be merged using station name as a key
-	# 	price_data = price_data.drop('station_code', 1)
-	# 	print 'price data already exists for this station and date. skipping web query...'
-	# else:
-	# 	price_data=get_prices_from_national_rail(start,date,hour)
+	#price_data=get_prices_from_national_rail(start,date,hour)
+	if os.path.exists('prices_from_'+start+'_'+date+'_'+hour+'.csv'):
+		price_data=pd.read_csv('prices_from_'+start+'_'+date+'_'+hour+'.csv')
+		#drop unncessary station code column. data will be merged using station name as a key
+		price_data = price_data.drop('station_code', 1)
+		print 'price data already exists for this station and date. skipping web query...'
+	else:
+		price_data=get_prices_from_national_rail(start,date,hour)
 	
 
 
