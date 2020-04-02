@@ -22,9 +22,7 @@ By this definition, if the Value for Money ratio is large, then £1 carries you 
 
 **Caveat**: These maps are simply intended to illustrate the regional railway values throughout the UK. While I have checked the majority of stations for accuracy in price (as retrieved in July 2014 for 1 October 2014) and location, small inaccuracies might still exist for individual stations. 
 
-***
 HOW TO RUN:
-***
 
 First, ...
 
@@ -34,7 +32,10 @@ RESULTS:
 
 Best value journey: Devonport, Plymouth (224 miles for £25.60)
 
-<div class='tableauPlaceholder' style='width: 654px; height: 929px;'><noscript><a href='#'><img alt='Cambridge Rail Value ' src='https:&#47;&#47;public.tableausoftware.com&#47;static&#47;images&#47;Ca&#47;CambridgeRailValue&#47;CambridgeRailValue&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz' width='654' height='929' style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableausoftware.com%2F' /> <param name='site_root' value='' /><param name='name' value='CambridgeRailValue&#47;CambridgeRailValue' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableausoftware.com&#47;static&#47;images&#47;Ca&#47;CambridgeRailValue&#47;CambridgeRailValue&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /></object></div><div style='width:654px;height:22px;padding:0px 10px 0px 0px;color:black;font:normal 8pt verdana,helvetica,arial,sans-serif;'><div style='float:right; padding-right:8px;'></div></div>
+[See Cambridge rail journey viz on Tableau Public](https://public.tableau.com/profile/tm419#!/vizhome/CambridgeRailValue/CambridgeRailValue)
+
+<a href="https://public.tableau.com/profile/tm419#!/vizhome/CambridgeRailValue/CambridgeRailValue" target="_blank"><img src="jpg" 
+alt="CBG rail journey viz" width="240" height="180" border="10" /></a>
 
 
 **Notes on rail journeys from Cambridge**
@@ -48,7 +49,10 @@ Best value journey: Devonport, Plymouth (224 miles for £25.60)
 
 Best value journey:  Solihull, West Midlands (93 miles for £6)
 
-<div class='tableauPlaceholder' style='width: 654px; height: 929px;'><noscript><a href='#'><img alt='King&#39;s Cross Rail Value ' src='https:&#47;&#47;public.tableausoftware.com&#47;static&#47;images&#47;Ki&#47;KingsCrossRailValue&#47;KingsCrossRailValue&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz' width='654' height='929' style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableausoftware.com%2F' /> <param name='site_root' value='' /><param name='name' value='KingsCrossRailValue&#47;KingsCrossRailValue' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableausoftware.com&#47;static&#47;images&#47;Ki&#47;KingsCrossRailValue&#47;KingsCrossRailValue&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /></object></div><div style='width:654px;height:22px;padding:0px 10px 0px 0px;color:black;font:normal 8pt verdana,helvetica,arial,sans-serif;'><div style='float:right; padding-right:8px;'></div></div>
+[See London King's Cross rail journey viz on Tableau Public](https://public.tableau.com/profile/tm419#!/vizhome/KingsCrossRailValue/KingsCrossRailValue)
+
+<a href="https://public.tableau.com/profile/tm419#!/vizhome/KingsCrossRailValue/KingsCrossRailValue" target="_blank"><img src="jpg" 
+alt="KGX rail journey viz" width="240" height="180" border="10" /></a>
 
 **Notes on rail journeys from London King's Cross**
 * As might be expected when starting from a station on the main line, King's Cross journeyers have a much better value ticket than Cambridge folk to pretty much anywhere in the UK.
@@ -63,7 +67,10 @@ Best value journey:  Solihull, West Midlands (93 miles for £6)
 
 Best value journey: Sanquhar, Scotland (217 miles for £12.50)
 
-<div class='tableauPlaceholder' style='width: 654px; height: 929px;'><noscript><a href='#'><img alt='Birmingham Rail Value ' src='https:&#47;&#47;public.tableausoftware.com&#47;static&#47;images&#47;Bi&#47;BirminghamRailValue&#47;BirminghamRailValue&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz' width='654' height='929' style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableausoftware.com%2F' /> <param name='site_root' value='' /><param name='name' value='BirminghamRailValue&#47;BirminghamRailValue' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableausoftware.com&#47;static&#47;images&#47;Bi&#47;BirminghamRailValue&#47;BirminghamRailValue&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /></object></div><div style='width:654px;height:22px;padding:0px 10px 0px 0px;color:black;font:normal 8pt verdana,helvetica,arial,sans-serif;'><div style='float:right; padding-right:8px;'></div></div>
+[See Birminham New Street rail journey viz on Tableau Public](https://public.tableau.com/profile/tm419#!/vizhome/BirminghamRailValue/BirminghamRailValue)
+
+<a href="https://public.tableau.com/profile/tm419#!/vizhome/BirminghamRailValue/BirminghamRailValue" target="_blank"><img src="jpg" 
+alt="BHM rail journey viz" width="240" height="180" border="10" /></a>
 
 **Notes on rail journeys from Birmingham**
 * Birmingham is a excellent starting location to get great value rail tickets to most of Scotland. However the Argyll region is not good value. This because stations in this region are the tail end of the western line up from Glasgow. This line only runs two or three trains a day from BHM that can get you to places like Mallaig and Loch Awe on the same day of travel. Stations in the rest of Scotland have more frequent services and are better value as a result.
