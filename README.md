@@ -34,11 +34,10 @@ Best value journey: Devonport, Plymouth (224 miles for £25.60)
 
 [See Cambridge rail journey viz on Tableau Public](https://public.tableau.com/profile/tm419#!/vizhome/CambridgeRailValue/CambridgeRailValue)
 
-<a href="https://public.tableau.com/profile/tm419#!/vizhome/CambridgeRailValue/CambridgeRailValue" target="_blank"><img src="jpg" 
-alt="CBG rail journey viz" width="240" height="180" border="10" /></a>
+<a href="https://public.tableau.com/profile/tm419#!/vizhome/CambridgeRailValue/CambridgeRailValue" target="_blank"><img src="Cambridge Rail Value.png" width="649"/></a>
 
 
-**Notes on rail journeys from Cambridge**
+*Notes on rail journeys from Cambridge*
 * Cambridge is generally quite an expensive starting point and only a few regions on the map are of good value, especially when compared to the London King's Cross map below.
 
 * The best value journeys are to locations in the West Country around Plymouth, south Wales, as well as a few stops in Yorkshire, Glasgow, and stations along the Far North line in the Scottish Highlands. 
@@ -51,10 +50,9 @@ Best value journey:  Solihull, West Midlands (93 miles for £6)
 
 [See London King's Cross rail journey viz on Tableau Public](https://public.tableau.com/profile/tm419#!/vizhome/KingsCrossRailValue/KingsCrossRailValue)
 
-<a href="https://public.tableau.com/profile/tm419#!/vizhome/KingsCrossRailValue/KingsCrossRailValue" target="_blank"><img src="jpg" 
-alt="KGX rail journey viz" width="240" height="180" border="10" /></a>
+<a href="https://public.tableau.com/profile/tm419#!/vizhome/KingsCrossRailValue/KingsCrossRailValue" target="_blank"><img src="King's Cross Rail Value.png" width="649"/></a>
 
-**Notes on rail journeys from London King's Cross**
+*Notes on rail journeys from London King's Cross*
 * As might be expected when starting from a station on the main line, King's Cross journeyers have a much better value ticket than Cambridge folk to pretty much anywhere in the UK.
 
 * Similar regions of the UK are particularly good value. The Glasgow, Birmingham, and Liverpool regions as well as the Yorkshire Dales and coastal towns in Norfolk have great bang for buck.
@@ -69,10 +67,9 @@ Best value journey: Sanquhar, Scotland (217 miles for £12.50)
 
 [See Birminham New Street rail journey viz on Tableau Public](https://public.tableau.com/profile/tm419#!/vizhome/BirminghamRailValue/BirminghamRailValue)
 
-<a href="https://public.tableau.com/profile/tm419#!/vizhome/BirminghamRailValue/BirminghamRailValue" target="_blank"><img src="jpg" 
-alt="BHM rail journey viz" width="240" height="180" border="10" /></a>
+<a href="https://public.tableau.com/profile/tm419#!/vizhome/BirminghamRailValue/BirminghamRailValue" target="_blank"><img src="Birmingham Rail Value.png" width="649"/></a>
 
-**Notes on rail journeys from Birmingham**
+*Notes on rail journeys from Birmingham*
 * Birmingham is a excellent starting location to get great value rail tickets to most of Scotland. However the Argyll region is not good value. This because stations in this region are the tail end of the western line up from Glasgow. This line only runs two or three trains a day from BHM that can get you to places like Mallaig and Loch Awe on the same day of travel. Stations in the rest of Scotland have more frequent services and are better value as a result.
 
 * The Glasgow - Edinburgh region continues to be excellent value for money, as well as Liverpool, the Lake District, and north Wales.
