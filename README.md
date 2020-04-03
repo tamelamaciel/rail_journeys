@@ -18,7 +18,7 @@ Being based in Cambridge at the time, I first ran this script starting from Camb
 **Value for Money** = distance (miles) / ticket price (£)  
 By this definition, if the Value for Money ratio is large, then £1 carries you further away from the starting location and thus that journey is particularly good value. 
 
-**Data is visualized** in a basic way with the maps.py file, and in a more sophisticated, interactive way using [Tableau Public](http://www.tableausoftware.com/public/community).  
+**Data is visualized** using [Tableau Public](http://www.tableausoftware.com/public/community).  
 
 **Caveat**: These maps are simply intended to illustrate the regional railway values throughout the UK. While I have checked the majority of stations for accuracy in price (as retrieved in July 2014 for 1 October 2014) and location, small inaccuracies might still exist for individual stations. 
 
@@ -30,9 +30,9 @@ Note, there is a built-in time delay between requests to the National Rail websi
 
 To re-generate station postcodes, run station_postcodes.py to create a data file "station_postcodes.txt". Note this only needs to be done once.
 
-Ignore old python files:
+Ignore old python file:
 * national_rail.py
-* map.py
+* mapping_code/map.py
 
 
 RESULTS:
