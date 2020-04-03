@@ -24,9 +24,15 @@ By this definition, if the Value for Money ratio is large, then £1 carries you 
 
 HOW TO RUN:
 
-Run rail_value.py. This contains a series of functions to scrape ticket price data from the National Rail website, calculate distances between stations, and compute the value for money ratio for each station.
+Run rail_value.py. 
 
-Note, there is a built-in time delay between requests to the National Rail website and this part of the code takes a long time to run. I normally leave it to run overnight. The code checks to make sure that the data does not already exist in the directory, and if it does exist, it skips the website query.
+`python rail_value.py`
+
+This contains a series of functions to scrape ticket price data from the National Rail website, calculate distances between stations, and compute the value for money ratio for each station.
+
+The code checks to make sure that the data does not already exist in the directory, and if it does exist, it skips the website query.
+
+Note, there is a built-in time delay between requests to the National Rail website and this part of the code takes a long time to run. I normally leave it to run overnight. 
 
 To re-generate station postcodes, run station_postcodes.py to create a data file "station_postcodes.txt". Note this only needs to be done once.
 
