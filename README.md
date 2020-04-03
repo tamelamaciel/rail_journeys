@@ -30,10 +30,6 @@ Note, there is a built-in time delay between requests to the National Rail websi
 
 To re-generate station postcodes, run station_postcodes.py to create a data file "station_postcodes.txt". Note this only needs to be done once.
 
-Ignore old python file:
-* national_rail.py
-* mapping_code/map.py
-
 
 RESULTS:
 
