@@ -1,5 +1,5 @@
 """Script to find the best value train tickets (miles per pence) in the UK"""
-import ipdb
+# import ipdb
 import sys
 import string
 import math
@@ -30,7 +30,7 @@ def get_prices_from_national_rail(start,date,hour):
 	import time
 	from BeautifulSoup import BeautifulSoup
 
-	print "Querying National Rail for journeys from "+start+" on "+date
+	print("Querying National Rail for journeys from "+start+" on "+date)
 
 	#read in uk stations file and setup price_data array, initializing price column with NaNs
 	stations=pd.read_csv('Station_use_2011-12.csv')
@@ -71,14 +71,14 @@ def get_prices_from_national_rail(start,date,hour):
 			#find item txtsoup that matches 'buyCheapest button'
 
 			matches = [s for s in txtsoup if "Buy cheapest for " in s] #list of matches
-			# print 'matches list: '
+			# print("matches list: ")
 			# print matches
 			try:
 				cheapest=matches[0].split('&#163;')[1].strip('\r') #string of pound value. '&#163;' is the pound sign
 			except IndexError:
 				cheapest=float('NaN')
 
-			print 'The cheapest fare between '+start+' and '+code+' is: '+str(cheapest)
+			print("The cheapest fare between "+start+" and "+code+" is: "+str(cheapest))
 
 			price_data.ix[i,'price'] = cheapest
 			#print price_data.ix[i,]
@@ -146,15 +146,15 @@ def main():
 	"""Main entry point for the script. 
  	Produces file 'rail_fun_<start>.csv'"""
 
-	print 'starting station: '+start
-	print 'town name: '+town
-	print 'date: '+date
+	print("starting station: "+start)
+	print("town name: "+town)
+	print("date: "+date)
 
 	#read in distance data:
 	#don't rerun distances function if data file already exists
 	if os.path.exists('distances_from_'+start+'.csv'):
 		dist_data=pd.read_csv('distances_from_'+start+'.csv')
-		print 'distance data already exists for this station. skipping distance calc...'
+		print("distance data already exists for this station. skipping distance calc...")
 	else:
 		dist_data=calc_distances_to_stations(start,town)
 
@@ -164,7 +164,7 @@ def main():
 		price_data=pd.read_csv('prices_from_'+start+'_'+date+'_'+hour+'.csv')
 		#drop unncessary station code column. data will be merged using station name as a key
 		price_data = price_data.drop('station_code', 1)
-		print 'price data already exists for this station and date. skipping web query...'
+		print("price data already exists for this station and date. skipping web query...")
 	else:
 		price_data=get_prices_from_national_rail(start,date,hour)
 	
@@ -180,14 +180,14 @@ def main():
 	best_value_dist = best_value['distance_miles']
 	best_value_price = best_value['price']
 
-	print '---------------------------'
-	print 'Best value for money:  '
-	print '   (for single ticket)'
-	print '   Station: '+best_value_name
-	print '   Code: '+best_value_code
-	print '   Dist (miles): '+str(best_value_dist)
-	print '   Price (pounds): '+str(best_value_price)
-	print '---------------------------'
+	print("---------------------------")
+	print("Best value for money:  ")
+	print("   (for single ticket)")
+	print("   Station: "+best_value_name)
+	print("   Code: "+best_value_code)
+	print("   Dist (miles): "+str(best_value_dist))
+	print("   Price (pounds): "+str(best_value_price))
+	print("---------------------------")
 
 
 if __name__ == '__main__':
