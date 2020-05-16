@@ -86,3 +86,5 @@ Best value journey: Sanquhar, Scotland (217 miles for £12.50)
 * The Glasgow - Edinburgh region continues to be excellent value for money, as well as Liverpool, the Lake District, and north Wales.
 
 * Kent is surprisingly good value from Birmingham, given the need to travel through London (Euston and St Pancreas). But by taking the 5:29am train from Birmingham New Street, one can get to Dover and other seaside towns for just £25.50 advance. Note that this not cheaper than a ticket to central London (which is about £20 in advance from BHM), but it is better value because of the greater distance travelled.
+
+For more details see [GitHub repository](https://github.com/tamelamaciel/rail_journeys/).
